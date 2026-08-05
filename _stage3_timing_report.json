@@ -1,0 +1,2361 @@
+{
+  "version": 1,
+  "page_count": 108,
+  "total_page_seconds": 257.7281,
+  "average_page_seconds": 2.3864,
+  "phase_totals_seconds": {
+    "content_assembly": 136.8442,
+    "media_svg": 56.3001,
+    "monetization": 28.2879,
+    "youtube": 19.6848,
+    "quality_write": 6.7597,
+    "preparation": 4.6088,
+    "internal_links": 2.7919,
+    "content_cleanup_final": 2.4063,
+    "content_cleanup_initial": 0.0464
+  },
+  "slowest_pages": [
+    {
+      "base_name": "Kenneth_Arnold_s_fir_b696ba",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 6.4344,
+      "phases": {
+        "preparation": 0.0428,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 0.0354,
+        "content_cleanup_final": 0.0543,
+        "media_svg": 0.8442,
+        "youtube": 2.1992,
+        "content_assembly": 1.4778,
+        "monetization": 1.6853,
+        "quality_write": 0.0945
+      }
+    },
+    {
+      "base_name": "Socorro_sighting_by_961b47",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 6.4305,
+      "phases": {
+        "preparation": 0.1077,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0312,
+        "content_cleanup_final": 0.0328,
+        "media_svg": 0.9014,
+        "youtube": 0.0164,
+        "content_assembly": 1.6454,
+        "monetization": 3.6147,
+        "quality_write": 0.0805
+      }
+    },
+    {
+      "base_name": "Kenneth_Arnold_s_fir_b696ba_arnold_evidence_asse_70eb16",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 5.8478,
+      "phases": {
+        "preparation": 0.0183,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0245,
+        "content_cleanup_final": 0.0259,
+        "media_svg": 0.57,
+        "youtube": 2.2074,
+        "content_assembly": 1.014,
+        "monetization": 1.9336,
+        "quality_write": 0.0535
+      }
+    },
+    {
+      "base_name": "USS_Theodore_Rooseve_daeaff_roosevelt_encounters_31e150",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 5.2755,
+      "phases": {
+        "preparation": 0.028,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0049,
+        "content_cleanup_final": 0.0169,
+        "media_svg": 0.5975,
+        "youtube": 2.3689,
+        "content_assembly": 1.1295,
+        "monetization": 1.0846,
+        "quality_write": 0.0448
+      }
+    },
+    {
+      "base_name": "Kenneth_Arnold_s_fir_b696ba_arnold_sighting_reco_baea7b",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 5.1368,
+      "phases": {
+        "preparation": 0.0162,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0229,
+        "content_cleanup_final": 0.0198,
+        "media_svg": 0.5599,
+        "youtube": 2.3586,
+        "content_assembly": 1.1364,
+        "monetization": 0.982,
+        "quality_write": 0.0404
+      }
+    },
+    {
+      "base_name": "USS_Theodore_Rooseve_a4867d",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 4.5297,
+      "phases": {
+        "preparation": 0.0581,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0234,
+        "content_cleanup_final": 0.0252,
+        "media_svg": 1.3498,
+        "youtube": 0.0134,
+        "content_assembly": 1.4204,
+        "monetization": 1.5647,
+        "quality_write": 0.0743
+      }
+    },
+    {
+      "base_name": "Stephen_Darbishire_p_f80223",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 4.2843,
+      "phases": {
+        "preparation": 0.0655,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0249,
+        "content_cleanup_final": 0.0264,
+        "media_svg": 0.2872,
+        "youtube": 2.2738,
+        "content_assembly": 1.4137,
+        "monetization": 0.1158,
+        "quality_write": 0.0764
+      }
+    },
+    {
+      "base_name": "Charles_L_Moody_abdu_780173_moody_skeptical_view_8ff380",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.9997,
+      "phases": {
+        "preparation": 0.0189,
+        "content_cleanup_initial": 0.0002,
+        "internal_links": 0.023,
+        "content_cleanup_final": 0.0172,
+        "media_svg": 0.5546,
+        "youtube": 2.2024,
+        "content_assembly": 1.0114,
+        "monetization": 0.127,
+        "quality_write": 0.045
+      }
+    },
+    {
+      "base_name": "USS_Theodore_Rooseve_a4867d_gimbal_video_evidenc_2b867e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.4827,
+      "phases": {
+        "preparation": 0.0212,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 0.0257,
+        "content_cleanup_final": 0.0289,
+        "media_svg": 0.5011,
+        "youtube": 1.6491,
+        "content_assembly": 1.0744,
+        "monetization": 0.1362,
+        "quality_write": 0.0454
+      }
+    },
+    {
+      "base_name": "USS_Theodore_Rooseve_a4867d_roosevelt_pilots_bd8def",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.3788,
+      "phases": {
+        "preparation": 0.0235,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0223,
+        "content_cleanup_final": 0.0259,
+        "media_svg": 0.5064,
+        "youtube": 1.5798,
+        "content_assembly": 1.0669,
+        "monetization": 0.1089,
+        "quality_write": 0.0448
+      }
+    },
+    {
+      "base_name": "Nash_and_Fortenberry_0a9bf2_sighting_explanation_473668",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.325,
+      "phases": {
+        "preparation": 0.0249,
+        "content_cleanup_initial": 0.0002,
+        "internal_links": 0.026,
+        "content_cleanup_final": 0.0195,
+        "media_svg": 0.5428,
+        "youtube": 1.5226,
+        "content_assembly": 1.0301,
+        "monetization": 0.1062,
+        "quality_write": 0.0525
+      }
+    },
+    {
+      "base_name": "Rex_Heflin_photograp_32bdf2",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 3.2602,
+      "phases": {
+        "preparation": 0.0638,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0233,
+        "content_cleanup_final": 0.0261,
+        "media_svg": 1.3401,
+        "youtube": 0.0091,
+        "content_assembly": 1.6114,
+        "monetization": 0.1144,
+        "quality_write": 0.0717
+      }
+    },
+    {
+      "base_name": "USS_Russell_video_20_3188a1",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1242,
+      "phases": {
+        "preparation": 0.0693,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0417,
+        "content_cleanup_final": 0.0236,
+        "media_svg": 1.3519,
+        "youtube": 0.0105,
+        "content_assembly": 1.3538,
+        "monetization": 0.1961,
+        "quality_write": 0.0769
+      }
+    },
+    {
+      "base_name": "George_Adamski_encou_795ba9",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0885,
+      "phases": {
+        "preparation": 0.0435,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 0.0293,
+        "content_cleanup_final": 0.0401,
+        "media_svg": 0.702,
+        "youtube": 0.0156,
+        "content_assembly": 1.4647,
+        "monetization": 0.7024,
+        "quality_write": 0.0897
+      }
+    },
+    {
+      "base_name": "USS_Theodore_Rooseve_daeaff_aaro_gofast_review_c62af1",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.9109,
+      "phases": {
+        "preparation": 0.0328,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0189,
+        "content_cleanup_final": 0.0202,
+        "media_svg": 0.528,
+        "youtube": 0.0219,
+        "content_assembly": 1.3883,
+        "monetization": 0.8423,
+        "quality_write": 0.0581
+      }
+    },
+    {
+      "base_name": "John_Martin_sighting_4cec00",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 2.9012,
+      "phases": {
+        "preparation": 0.0623,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0347,
+        "content_cleanup_final": 0.0203,
+        "media_svg": 1.1288,
+        "youtube": 0.0124,
+        "content_assembly": 1.4478,
+        "monetization": 0.1126,
+        "quality_write": 0.0818
+      }
+    },
+    {
+      "base_name": "Jimmy_Carter_sightin_759215",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8456,
+      "phases": {
+        "preparation": 0.0592,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0301,
+        "content_cleanup_final": 0.0216,
+        "media_svg": 1.1045,
+        "youtube": 0.0105,
+        "content_assembly": 1.4104,
+        "monetization": 0.1376,
+        "quality_write": 0.0713
+      }
+    },
+    {
+      "base_name": "Apollo_11_sightings_2c5554",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8121,
+      "phases": {
+        "preparation": 0.0612,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 0.0219,
+        "content_cleanup_final": 0.024,
+        "media_svg": 0.8141,
+        "youtube": 0.0152,
+        "content_assembly": 1.6976,
+        "monetization": 0.1065,
+        "quality_write": 0.0708
+      }
+    },
+    {
+      "base_name": "Betty_and_Barney_Hil_3bcafa",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6637,
+      "phases": {
+        "preparation": 0.0623,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0372,
+        "content_cleanup_final": 0.0579,
+        "media_svg": 0.4655,
+        "youtube": 0.0154,
+        "content_assembly": 1.8039,
+        "monetization": 0.1347,
+        "quality_write": 0.0863
+      }
+    },
+    {
+      "base_name": "Levelland_Texas_inci_0e8348",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5807,
+      "phases": {
+        "preparation": 0.0526,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0217,
+        "content_cleanup_final": 0.0152,
+        "media_svg": 0.8165,
+        "youtube": 0.0146,
+        "content_assembly": 1.466,
+        "monetization": 0.1134,
+        "quality_write": 0.0804
+      }
+    }
+  ],
+  "pages": [
+    {
+      "base_name": "Kenneth_Arnold_s_fir_b696ba",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 6.4344,
+      "phases": {
+        "preparation": 0.0428,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 0.0354,
+        "content_cleanup_final": 0.0543,
+        "media_svg": 0.8442,
+        "youtube": 2.1992,
+        "content_assembly": 1.4778,
+        "monetization": 1.6853,
+        "quality_write": 0.0945
+      }
+    },
+    {
+      "base_name": "Kenneth_Arnold_s_fir_b696ba_arnold_evidence_asse_70eb16",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 5.8478,
+      "phases": {
+        "preparation": 0.0183,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0245,
+        "content_cleanup_final": 0.0259,
+        "media_svg": 0.57,
+        "youtube": 2.2074,
+        "content_assembly": 1.014,
+        "monetization": 1.9336,
+        "quality_write": 0.0535
+      }
+    },
+    {
+      "base_name": "Betty_and_Barney_Hil_3bcafa",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 2.6637,
+      "phases": {
+        "preparation": 0.0623,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0372,
+        "content_cleanup_final": 0.0579,
+        "media_svg": 0.4655,
+        "youtube": 0.0154,
+        "content_assembly": 1.8039,
+        "monetization": 0.1347,
+        "quality_write": 0.0863
+      }
+    },
+    {
+      "base_name": "Betty_and_Barney_Hil_3bcafa_white_mountains_time_c83d8b",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.7567,
+      "phases": {
+        "preparation": 0.0226,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0079,
+        "content_cleanup_final": 0.0198,
+        "media_svg": 0.5016,
+        "youtube": 0.0137,
+        "content_assembly": 1.0394,
+        "monetization": 0.1116,
+        "quality_write": 0.0399
+      }
+    },
+    {
+      "base_name": "Kenneth_Arnold_s_fir_b696ba_arnold_sighting_reco_baea7b",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 5.1368,
+      "phases": {
+        "preparation": 0.0162,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0229,
+        "content_cleanup_final": 0.0198,
+        "media_svg": 0.5599,
+        "youtube": 2.3586,
+        "content_assembly": 1.1364,
+        "monetization": 0.982,
+        "quality_write": 0.0404
+      }
+    },
+    {
+      "base_name": "Betty_and_Barney_Hil_3bcafa_early_reports_and_fi_0d1c50",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3362,
+      "phases": {
+        "preparation": 0.0294,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0331,
+        "content_cleanup_final": 0.0149,
+        "media_svg": 0.5549,
+        "youtube": 0.0102,
+        "content_assembly": 0.9949,
+        "monetization": 0.6556,
+        "quality_write": 0.0427
+      }
+    },
+    {
+      "base_name": "George_Adamski_encou_795ba9_desert_center_timeli_e5342c",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5403,
+      "phases": {
+        "preparation": 0.0252,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0323,
+        "content_cleanup_final": 0.0343,
+        "media_svg": 0.5359,
+        "youtube": 0.01,
+        "content_assembly": 1.0985,
+        "monetization": 0.7554,
+        "quality_write": 0.0484
+      }
+    },
+    {
+      "base_name": "Roswell_1947_c36fe7_project_mogul_explan_2128c2",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5132,
+      "phases": {
+        "preparation": 0.0197,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0246,
+        "content_cleanup_final": 0.0258,
+        "media_svg": 0.5094,
+        "youtube": 0.0104,
+        "content_assembly": 1.0829,
+        "monetization": 0.7713,
+        "quality_write": 0.0686
+      }
+    },
+    {
+      "base_name": "George_Adamski_encou_795ba9",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 3.0885,
+      "phases": {
+        "preparation": 0.0435,
+        "content_cleanup_initial": 0.0011,
+        "internal_links": 0.0293,
+        "content_cleanup_final": 0.0401,
+        "media_svg": 0.702,
+        "youtube": 0.0156,
+        "content_assembly": 1.4647,
+        "monetization": 0.7024,
+        "quality_write": 0.0897
+      }
+    },
+    {
+      "base_name": "Socorro_sighting_by_961b47_socorro_competing_ex_2ffb1f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1158,
+      "phases": {
+        "preparation": 0.0176,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0296,
+        "content_cleanup_final": 0.024,
+        "media_svg": 0.5274,
+        "youtube": 0.0111,
+        "content_assembly": 1.3317,
+        "monetization": 0.1175,
+        "quality_write": 0.0565
+      }
+    },
+    {
+      "base_name": "Gorman_dogfight_near_aac8f7",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 2.4796,
+      "phases": {
+        "preparation": 0.0603,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0358,
+        "content_cleanup_final": 0.0231,
+        "media_svg": 0.5875,
+        "youtube": 0.0131,
+        "content_assembly": 1.5898,
+        "monetization": 0.1002,
+        "quality_write": 0.0694
+      }
+    },
+    {
+      "base_name": "Truman_Bethurum_cont_eaa44d_fbi_official_records_7c4f74",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.7412,
+      "phases": {
+        "preparation": 0.0231,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.03,
+        "content_cleanup_final": 0.0177,
+        "media_svg": 0.4989,
+        "youtube": 0.0093,
+        "content_assembly": 1.0011,
+        "monetization": 0.1119,
+        "quality_write": 0.049
+      }
+    },
+    {
+      "base_name": "Truman_Bethurum_cont_eaa44d",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 2.4725,
+      "phases": {
+        "preparation": 0.066,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0305,
+        "content_cleanup_final": 0.0218,
+        "media_svg": 0.8246,
+        "youtube": 0.0118,
+        "content_assembly": 1.3276,
+        "monetization": 0.1045,
+        "quality_write": 0.0855
+      }
+    },
+    {
+      "base_name": "Socorro_sighting_by_961b47",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 6.4305,
+      "phases": {
+        "preparation": 0.1077,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0312,
+        "content_cleanup_final": 0.0328,
+        "media_svg": 0.9014,
+        "youtube": 0.0164,
+        "content_assembly": 1.6454,
+        "monetization": 3.6147,
+        "quality_write": 0.0805
+      }
+    },
+    {
+      "base_name": "Flight_19_incident_1_5cc889",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8499,
+      "phases": {
+        "preparation": 0.0548,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0301,
+        "content_cleanup_final": 0.0196,
+        "media_svg": 0.2711,
+        "youtube": 0.0091,
+        "content_assembly": 1.2965,
+        "monetization": 0.0906,
+        "quality_write": 0.0778
+      }
+    },
+    {
+      "base_name": "Aurora_Texas_airship_165367_hoax_explanations_022016",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.7369,
+      "phases": {
+        "preparation": 0.0265,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 0.0278,
+        "content_cleanup_final": 0.0189,
+        "media_svg": 0.4945,
+        "youtube": 0.0101,
+        "content_assembly": 0.9872,
+        "monetization": 0.1237,
+        "quality_write": 0.0475
+      }
+    },
+    {
+      "base_name": "Linda_Cortile_abduct_1b229f",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0228,
+      "phases": {
+        "preparation": 0.0695,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0286,
+        "content_cleanup_final": 0.0214,
+        "media_svg": 0.2892,
+        "youtube": 0.0125,
+        "content_assembly": 1.4177,
+        "monetization": 0.1112,
+        "quality_write": 0.0723
+      }
+    },
+    {
+      "base_name": "Delphos_Ring_inciden_2952cd",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0324,
+      "phases": {
+        "preparation": 0.0633,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0272,
+        "content_cleanup_final": 0.0165,
+        "media_svg": 0.3018,
+        "youtube": 0.0116,
+        "content_assembly": 1.424,
+        "monetization": 0.1173,
+        "quality_write": 0.0704
+      }
+    },
+    {
+      "base_name": "E_J_Smith_sighting_1_b2b2e6",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1794,
+      "phases": {
+        "preparation": 0.0753,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0189,
+        "content_cleanup_final": 0.0136,
+        "media_svg": 0.4837,
+        "youtube": 0.0112,
+        "content_assembly": 1.3664,
+        "monetization": 0.1346,
+        "quality_write": 0.0752
+      }
+    },
+    {
+      "base_name": "Fred_M_Johnson_sight_b34b17",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0415,
+      "phases": {
+        "preparation": 0.0585,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0478,
+        "content_cleanup_final": 0.0212,
+        "media_svg": 0.3049,
+        "youtube": 0.0182,
+        "content_assembly": 1.4182,
+        "monetization": 0.104,
+        "quality_write": 0.0684
+      }
+    },
+    {
+      "base_name": "Cedric_Allingham_enc_2c7f6b",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9978,
+      "phases": {
+        "preparation": 0.0621,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0261,
+        "content_cleanup_final": 0.021,
+        "media_svg": 0.2908,
+        "youtube": 0.0123,
+        "content_assembly": 1.3928,
+        "monetization": 0.12,
+        "quality_write": 0.0726
+      }
+    },
+    {
+      "base_name": "Cisco_Grove_incident_29820a",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3389,
+      "phases": {
+        "preparation": 0.0735,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.023,
+        "content_cleanup_final": 0.022,
+        "media_svg": 0.5644,
+        "youtube": 0.0104,
+        "content_assembly": 1.4435,
+        "monetization": 0.1142,
+        "quality_write": 0.0876
+      }
+    },
+    {
+      "base_name": "Cisco_Grove_incident_29820a_evidence_debate_6278b8",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.035,
+      "phases": {
+        "preparation": 0.0293,
+        "content_cleanup_initial": 0.0002,
+        "internal_links": 0.025,
+        "content_cleanup_final": 0.0233,
+        "media_svg": 0.569,
+        "youtube": 0.0245,
+        "content_assembly": 1.2131,
+        "monetization": 0.0924,
+        "quality_write": 0.0583
+      }
+    },
+    {
+      "base_name": "Topcliffe_incident_1_80cbf4",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1321,
+      "phases": {
+        "preparation": 0.0542,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0319,
+        "content_cleanup_final": 0.0183,
+        "media_svg": 0.2962,
+        "youtube": 0.0088,
+        "content_assembly": 1.5413,
+        "monetization": 0.1122,
+        "quality_write": 0.0689
+      }
+    },
+    {
+      "base_name": "Gemini_7_sighting_19_7caf7b_astronaut_testimony_3f47a4",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9291,
+      "phases": {
+        "preparation": 0.0225,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0225,
+        "content_cleanup_final": 0.017,
+        "media_svg": 0.6007,
+        "youtube": 0.0266,
+        "content_assembly": 1.0595,
+        "monetization": 0.1296,
+        "quality_write": 0.0502
+      }
+    },
+    {
+      "base_name": "Voronezh_Russia_land_e13f34_physical_evidence_fb21e4",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8042,
+      "phases": {
+        "preparation": 0.0282,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0366,
+        "content_cleanup_final": 0.0185,
+        "media_svg": 0.5222,
+        "youtube": 0.0109,
+        "content_assembly": 1.0678,
+        "monetization": 0.0723,
+        "quality_write": 0.0473
+      }
+    },
+    {
+      "base_name": "Voronezh_Russia_land_e13f34",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0006,
+      "phases": {
+        "preparation": 0.0545,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0318,
+        "content_cleanup_final": 0.0254,
+        "media_svg": 0.3093,
+        "youtube": 0.0177,
+        "content_assembly": 1.4128,
+        "monetization": 0.0668,
+        "quality_write": 0.0822
+      }
+    },
+    {
+      "base_name": "Voronezh_Russia_land_e13f34_voronezh_witnesses_5bee06",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8101,
+      "phases": {
+        "preparation": 0.0265,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0305,
+        "content_cleanup_final": 0.0211,
+        "media_svg": 0.4966,
+        "youtube": 0.0102,
+        "content_assembly": 1.0893,
+        "monetization": 0.0797,
+        "quality_write": 0.0557
+      }
+    },
+    {
+      "base_name": "Voronezh_Russia_land_e13f34_tass_glassnost_media_3b7815",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.7483,
+      "phases": {
+        "preparation": 0.0264,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0173,
+        "content_cleanup_final": 0.0141,
+        "media_svg": 0.5256,
+        "youtube": 0.009,
+        "content_assembly": 1.0391,
+        "monetization": 0.0691,
+        "quality_write": 0.0474
+      }
+    },
+    {
+      "base_name": "Cynthia_Appleton_enc_304111",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2302,
+      "phases": {
+        "preparation": 0.0661,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0267,
+        "content_cleanup_final": 0.0277,
+        "media_svg": 0.5101,
+        "youtube": 0.0117,
+        "content_assembly": 1.4026,
+        "monetization": 0.1139,
+        "quality_write": 0.0711
+      }
+    },
+    {
+      "base_name": "Livingston_incident_b2c293",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0236,
+      "phases": {
+        "preparation": 0.0592,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0261,
+        "content_cleanup_final": 0.0175,
+        "media_svg": 0.3253,
+        "youtube": 0.0128,
+        "content_assembly": 1.3958,
+        "monetization": 0.1179,
+        "quality_write": 0.0688
+      }
+    },
+    {
+      "base_name": "Livingston_incident_b2c293_evidence_trail_90b83e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8507,
+      "phases": {
+        "preparation": 0.0183,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0207,
+        "content_cleanup_final": 0.0312,
+        "media_svg": 0.5237,
+        "youtube": 0.0186,
+        "content_assembly": 1.0706,
+        "monetization": 0.117,
+        "quality_write": 0.0504
+      }
+    },
+    {
+      "base_name": "Ummo_photographs_196_ed7563_photo_authenticity_d89553",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9633,
+      "phases": {
+        "preparation": 0.0207,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0202,
+        "content_cleanup_final": 0.0271,
+        "media_svg": 0.5501,
+        "youtube": 0.0204,
+        "content_assembly": 1.1415,
+        "monetization": 0.1301,
+        "quality_write": 0.0528
+      }
+    },
+    {
+      "base_name": "Ummo_photographs_196_ed7563_valderas_sighting_dadbe3",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0337,
+      "phases": {
+        "preparation": 0.0237,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0184,
+        "content_cleanup_final": 0.031,
+        "media_svg": 0.5499,
+        "youtube": 0.0362,
+        "content_assembly": 1.1737,
+        "monetization": 0.1435,
+        "quality_write": 0.0571
+      }
+    },
+    {
+      "base_name": "Operation_Mainbrace_06bcd8",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0761,
+      "phases": {
+        "preparation": 0.06,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0205,
+        "content_cleanup_final": 0.0303,
+        "media_svg": 0.248,
+        "youtube": 0.0114,
+        "content_assembly": 1.503,
+        "monetization": 0.1149,
+        "quality_write": 0.0875
+      }
+    },
+    {
+      "base_name": "Operation_Mainbrace_06bcd8_military_witnesses_464c20",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8978,
+      "phases": {
+        "preparation": 0.0211,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 0.0198,
+        "content_cleanup_final": 0.0204,
+        "media_svg": 0.5107,
+        "youtube": 0.0116,
+        "content_assembly": 1.1218,
+        "monetization": 0.1267,
+        "quality_write": 0.0651
+      }
+    },
+    {
+      "base_name": "Stephen_Darbishire_p_f80223_hoax_explanation_deb_638dee",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8008,
+      "phases": {
+        "preparation": 0.0157,
+        "content_cleanup_initial": 0.0002,
+        "internal_links": 0.0174,
+        "content_cleanup_final": 0.0103,
+        "media_svg": 0.5164,
+        "youtube": 0.0202,
+        "content_assembly": 1.0485,
+        "monetization": 0.1281,
+        "quality_write": 0.044
+      }
+    },
+    {
+      "base_name": "Walesville_Incident_cbceb2",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0698,
+      "phases": {
+        "preparation": 0.049,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0315,
+        "content_cleanup_final": 0.0129,
+        "media_svg": 0.4567,
+        "youtube": 0.0101,
+        "content_assembly": 1.3751,
+        "monetization": 0.0704,
+        "quality_write": 0.0639
+      }
+    },
+    {
+      "base_name": "Stephen_Darbishire_p_f80223",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 4.2843,
+      "phases": {
+        "preparation": 0.0655,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0249,
+        "content_cleanup_final": 0.0264,
+        "media_svg": 0.2872,
+        "youtube": 2.2738,
+        "content_assembly": 1.4137,
+        "monetization": 0.1158,
+        "quality_write": 0.0764
+      }
+    },
+    {
+      "base_name": "Walesville_Incident_cbceb2_f94_crash_emergency_3e85e1",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.7761,
+      "phases": {
+        "preparation": 0.0305,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0228,
+        "content_cleanup_final": 0.0204,
+        "media_svg": 0.5056,
+        "youtube": 0.0095,
+        "content_assembly": 1.0707,
+        "monetization": 0.0672,
+        "quality_write": 0.0489
+      }
+    },
+    {
+      "base_name": "Walesville_Incident_cbceb2_official_ufo_debate_b09593",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.7965,
+      "phases": {
+        "preparation": 0.0196,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0073,
+        "content_cleanup_final": 0.0138,
+        "media_svg": 0.5315,
+        "youtube": 0.0114,
+        "content_assembly": 1.0954,
+        "monetization": 0.07,
+        "quality_write": 0.047
+      }
+    },
+    {
+      "base_name": "Walesville_Incident_cbceb2_interception_timelin_9b5816",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8413,
+      "phases": {
+        "preparation": 0.0256,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0317,
+        "content_cleanup_final": 0.0146,
+        "media_svg": 0.5348,
+        "youtube": 0.0086,
+        "content_assembly": 1.1017,
+        "monetization": 0.0726,
+        "quality_write": 0.0515
+      }
+    },
+    {
+      "base_name": "Larson_abduction_nea_e9683a",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9683,
+      "phases": {
+        "preparation": 0.0622,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0289,
+        "content_cleanup_final": 0.0198,
+        "media_svg": 0.2065,
+        "youtube": 0.0092,
+        "content_assembly": 1.462,
+        "monetization": 0.1086,
+        "quality_write": 0.0705
+      }
+    },
+    {
+      "base_name": "Tully_saucer_nest_in_b9d0b0",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0343,
+      "phases": {
+        "preparation": 0.0622,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0284,
+        "content_cleanup_final": 0.0203,
+        "media_svg": 0.3058,
+        "youtube": 0.0132,
+        "content_assembly": 1.4003,
+        "monetization": 0.1225,
+        "quality_write": 0.0811
+      }
+    },
+    {
+      "base_name": "USS_Nimitz_Tic_Tac_v_83266a",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5225,
+      "phases": {
+        "preparation": 0.1128,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0248,
+        "content_cleanup_final": 0.022,
+        "media_svg": 0.7212,
+        "youtube": 0.011,
+        "content_assembly": 1.4365,
+        "monetization": 0.1256,
+        "quality_write": 0.0682
+      }
+    },
+    {
+      "base_name": "USS_Nimitz_Tic_Tac_v_83266a_flir1_video_84a321",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8801,
+      "phases": {
+        "preparation": 0.0303,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 0.0202,
+        "content_cleanup_final": 0.0257,
+        "media_svg": 0.4996,
+        "youtube": 0.0143,
+        "content_assembly": 1.1098,
+        "monetization": 0.1333,
+        "quality_write": 0.0462
+      }
+    },
+    {
+      "base_name": "USS_Nimitz_Tic_Tac_v_83266a_pilot_testimony_8d6b68",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3479,
+      "phases": {
+        "preparation": 0.0241,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0222,
+        "content_cleanup_final": 0.016,
+        "media_svg": 0.5164,
+        "youtube": 0.0145,
+        "content_assembly": 1.1021,
+        "monetization": 0.57,
+        "quality_write": 0.0824
+      }
+    },
+    {
+      "base_name": "USS_Nimitz_Tic_Tac_v_83266a_official_findings_47a762",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9805,
+      "phases": {
+        "preparation": 0.0221,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0095,
+        "content_cleanup_final": 0.027,
+        "media_svg": 0.504,
+        "youtube": 0.013,
+        "content_assembly": 1.2182,
+        "monetization": 0.1372,
+        "quality_write": 0.049
+      }
+    },
+    {
+      "base_name": "USS_Theodore_Rooseve_daeaff",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0669,
+      "phases": {
+        "preparation": 0.0642,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0243,
+        "content_cleanup_final": 0.0201,
+        "media_svg": 0.2073,
+        "youtube": 0.0107,
+        "content_assembly": 1.5412,
+        "monetization": 0.1244,
+        "quality_write": 0.0743
+      }
+    },
+    {
+      "base_name": "USS_Theodore_Rooseve_daeaff_gofast_parallax_d88ec2",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1197,
+      "phases": {
+        "preparation": 0.0223,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0347,
+        "content_cleanup_final": 0.0246,
+        "media_svg": 0.5126,
+        "youtube": 0.0151,
+        "content_assembly": 1.3053,
+        "monetization": 0.149,
+        "quality_write": 0.0558
+      }
+    },
+    {
+      "base_name": "USS_Theodore_Rooseve_daeaff_aaro_gofast_review_c62af1",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.9109,
+      "phases": {
+        "preparation": 0.0328,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0189,
+        "content_cleanup_final": 0.0202,
+        "media_svg": 0.528,
+        "youtube": 0.0219,
+        "content_assembly": 1.3883,
+        "monetization": 0.8423,
+        "quality_write": 0.0581
+      }
+    },
+    {
+      "base_name": "Puerto_Rico_infrared_d310d5",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1489,
+      "phases": {
+        "preparation": 0.0667,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0222,
+        "content_cleanup_final": 0.0166,
+        "media_svg": 0.3033,
+        "youtube": 0.0118,
+        "content_assembly": 1.5367,
+        "monetization": 0.1248,
+        "quality_write": 0.0665
+      }
+    },
+    {
+      "base_name": "USS_Theodore_Rooseve_daeaff_roosevelt_encounters_31e150",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 5.2755,
+      "phases": {
+        "preparation": 0.028,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0049,
+        "content_cleanup_final": 0.0169,
+        "media_svg": 0.5975,
+        "youtube": 2.3689,
+        "content_assembly": 1.1295,
+        "monetization": 1.0846,
+        "quality_write": 0.0448
+      }
+    },
+    {
+      "base_name": "USS_Russell_video_20_3188a1_encounter_timeline_04b6bd",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1111,
+      "phases": {
+        "preparation": 0.0285,
+        "content_cleanup_initial": 0.0008,
+        "internal_links": 0.0228,
+        "content_cleanup_final": 0.0256,
+        "media_svg": 0.5209,
+        "youtube": 0.0136,
+        "content_assembly": 1.0413,
+        "monetization": 0.4109,
+        "quality_write": 0.0466
+      }
+    },
+    {
+      "base_name": "USS_Russell_video_20_3188a1",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 3.1242,
+      "phases": {
+        "preparation": 0.0693,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0417,
+        "content_cleanup_final": 0.0236,
+        "media_svg": 1.3519,
+        "youtube": 0.0105,
+        "content_assembly": 1.3538,
+        "monetization": 0.1961,
+        "quality_write": 0.0769
+      }
+    },
+    {
+      "base_name": "USS_Russell_video_20_3188a1_explanations_debate_bc1322",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.367,
+      "phases": {
+        "preparation": 0.025,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0206,
+        "content_cleanup_final": 0.0143,
+        "media_svg": 0.5225,
+        "youtube": 0.0093,
+        "content_assembly": 1.1071,
+        "monetization": 0.6252,
+        "quality_write": 0.0427
+      }
+    },
+    {
+      "base_name": "USS_Russell_video_20_3188a1_sensor_interpretatio_bdf3d2",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0086,
+      "phases": {
+        "preparation": 0.0276,
+        "content_cleanup_initial": 0.0002,
+        "internal_links": 0.0128,
+        "content_cleanup_final": 0.015,
+        "media_svg": 0.5116,
+        "youtube": 0.0122,
+        "content_assembly": 1.0394,
+        "monetization": 0.3489,
+        "quality_write": 0.0409
+      }
+    },
+    {
+      "base_name": "Middle_East_UAP_vide_4a6c55",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9769,
+      "phases": {
+        "preparation": 0.0612,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0229,
+        "content_cleanup_final": 0.0169,
+        "media_svg": 0.2084,
+        "youtube": 0.0119,
+        "content_assembly": 1.5039,
+        "monetization": 0.0747,
+        "quality_write": 0.0767
+      }
+    },
+    {
+      "base_name": "Middle_East_UAP_vide_4a6c55_aaro_findings_8c13c8",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8933,
+      "phases": {
+        "preparation": 0.0315,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0281,
+        "content_cleanup_final": 0.0183,
+        "media_svg": 0.5355,
+        "youtube": 0.013,
+        "content_assembly": 1.1465,
+        "monetization": 0.0749,
+        "quality_write": 0.0451
+      }
+    },
+    {
+      "base_name": "Middle_East_UAP_vide_4a6c55_orb_explanations_bb09a9",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8705,
+      "phases": {
+        "preparation": 0.0197,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 0.0062,
+        "content_cleanup_final": 0.0143,
+        "media_svg": 0.5688,
+        "youtube": 0.0092,
+        "content_assembly": 1.0907,
+        "monetization": 0.1158,
+        "quality_write": 0.045
+      }
+    },
+    {
+      "base_name": "Middle_East_UAP_vide_4a6c55_mq9_recording_cc16f3",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3469,
+      "phases": {
+        "preparation": 0.0217,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0288,
+        "content_cleanup_final": 0.0184,
+        "media_svg": 0.5568,
+        "youtube": 0.01,
+        "content_assembly": 1.0614,
+        "monetization": 0.6077,
+        "quality_write": 0.0414
+      }
+    },
+    {
+      "base_name": "Kelly-Hopkinsville_i_de664d",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0091,
+      "phases": {
+        "preparation": 0.0604,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0259,
+        "content_cleanup_final": 0.0195,
+        "media_svg": 0.2561,
+        "youtube": 0.0151,
+        "content_assembly": 1.45,
+        "monetization": 0.1144,
+        "quality_write": 0.0674
+      }
+    },
+    {
+      "base_name": "Kelly-Hopkinsville_i_de664d_blue_book_records_bab75d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.4635,
+      "phases": {
+        "preparation": 0.0174,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0216,
+        "content_cleanup_final": 0.0247,
+        "media_svg": 0.5227,
+        "youtube": 0.0165,
+        "content_assembly": 1.097,
+        "monetization": 0.7175,
+        "quality_write": 0.0455
+      }
+    },
+    {
+      "base_name": "Levelland_Texas_inci_0e8348",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 2.5807,
+      "phases": {
+        "preparation": 0.0526,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0217,
+        "content_cleanup_final": 0.0152,
+        "media_svg": 0.8165,
+        "youtube": 0.0146,
+        "content_assembly": 1.466,
+        "monetization": 0.1134,
+        "quality_write": 0.0804
+      }
+    },
+    {
+      "base_name": "Levelland_Texas_inci_0e8348_vehicle_effects_c14f73",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.857,
+      "phases": {
+        "preparation": 0.0194,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0195,
+        "content_cleanup_final": 0.0228,
+        "media_svg": 0.4977,
+        "youtube": 0.023,
+        "content_assembly": 1.1074,
+        "monetization": 0.1143,
+        "quality_write": 0.0525
+      }
+    },
+    {
+      "base_name": "Levelland_Texas_inci_0e8348_levelland_witnesses_4d7931",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8411,
+      "phases": {
+        "preparation": 0.0243,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0176,
+        "content_cleanup_final": 0.0185,
+        "media_svg": 0.5518,
+        "youtube": 0.0119,
+        "content_assembly": 1.0504,
+        "monetization": 0.1137,
+        "quality_write": 0.0527
+      }
+    },
+    {
+      "base_name": "Lakenheath_episode_1_bf5257_lakenheath_debate_c24bff",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.861,
+      "phases": {
+        "preparation": 0.0229,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0269,
+        "content_cleanup_final": 0.0329,
+        "media_svg": 0.4776,
+        "youtube": 0.0113,
+        "content_assembly": 1.1154,
+        "monetization": 0.1244,
+        "quality_write": 0.0492
+      }
+    },
+    {
+      "base_name": "Valensole_incident_1_63f5cf",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1339,
+      "phases": {
+        "preparation": 0.059,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.028,
+        "content_cleanup_final": 0.0239,
+        "media_svg": 0.3327,
+        "youtube": 0.0115,
+        "content_assembly": 1.4686,
+        "monetization": 0.1362,
+        "quality_write": 0.0737
+      }
+    },
+    {
+      "base_name": "Alexander_Hamilton_a_75e894",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 2.4623,
+      "phases": {
+        "preparation": 0.0653,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0279,
+        "content_cleanup_final": 0.0215,
+        "media_svg": 0.5465,
+        "youtube": 0.013,
+        "content_assembly": 1.502,
+        "monetization": 0.2005,
+        "quality_write": 0.0852
+      }
+    },
+    {
+      "base_name": "Gemini_4_sighting_19_9c351d_debris_explanations_918930",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 2.036,
+      "phases": {
+        "preparation": 0.0295,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0347,
+        "content_cleanup_final": 0.0213,
+        "media_svg": 0.5261,
+        "youtube": 0.0087,
+        "content_assembly": 1.2377,
+        "monetization": 0.129,
+        "quality_write": 0.0486
+      }
+    },
+    {
+      "base_name": "CashLandrum_incident_7ad7d9",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 2.3148,
+      "phases": {
+        "preparation": 0.0705,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0211,
+        "content_cleanup_final": 0.0232,
+        "media_svg": 0.5444,
+        "youtube": 0.0112,
+        "content_assembly": 1.4686,
+        "monetization": 0.0995,
+        "quality_write": 0.0759
+      }
+    },
+    {
+      "base_name": "CashLandrum_incident_7ad7d9_medical_evidence_4d8e3e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8547,
+      "phases": {
+        "preparation": 0.0226,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0166,
+        "content_cleanup_final": 0.0201,
+        "media_svg": 0.5406,
+        "youtube": 0.0138,
+        "content_assembly": 1.0851,
+        "monetization": 0.1069,
+        "quality_write": 0.0488
+      }
+    },
+    {
+      "base_name": "Lubbock_Lights_sight_4eabd8_hart_photographs_d3321f",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8668,
+      "phases": {
+        "preparation": 0.0302,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.022,
+        "content_cleanup_final": 0.0242,
+        "media_svg": 0.5202,
+        "youtube": 0.0122,
+        "content_assembly": 1.0595,
+        "monetization": 0.1521,
+        "quality_write": 0.0462
+      }
+    },
+    {
+      "base_name": "Valentich_disappeara_592d85_radio_encounter_7c991e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8238,
+      "phases": {
+        "preparation": 0.0312,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 0.0235,
+        "content_cleanup_final": 0.0201,
+        "media_svg": 0.51,
+        "youtube": 0.0141,
+        "content_assembly": 1.0877,
+        "monetization": 0.0917,
+        "quality_write": 0.0448
+      }
+    },
+    {
+      "base_name": "Tremonton_Utah_film_79b5ee",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0513,
+      "phases": {
+        "preparation": 0.0676,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0232,
+        "content_cleanup_final": 0.0217,
+        "media_svg": 0.2896,
+        "youtube": 0.011,
+        "content_assembly": 1.4528,
+        "monetization": 0.1088,
+        "quality_write": 0.0762
+      }
+    },
+    {
+      "base_name": "Jimmy_Carter_sightin_759215",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8456,
+      "phases": {
+        "preparation": 0.0592,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0301,
+        "content_cleanup_final": 0.0216,
+        "media_svg": 1.1045,
+        "youtube": 0.0105,
+        "content_assembly": 1.4104,
+        "monetization": 0.1376,
+        "quality_write": 0.0713
+      }
+    },
+    {
+      "base_name": "Valentich_disappeara_592d85_competing_theories_416459",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.7728,
+      "phases": {
+        "preparation": 0.0243,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0119,
+        "content_cleanup_final": 0.0163,
+        "media_svg": 0.5178,
+        "youtube": 0.0183,
+        "content_assembly": 1.0386,
+        "monetization": 0.101,
+        "quality_write": 0.0444
+      }
+    },
+    {
+      "base_name": "Desvergers_scoutmast_75261f_physical_evidence_fb21e4",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8066,
+      "phases": {
+        "preparation": 0.0277,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0243,
+        "content_cleanup_final": 0.0173,
+        "media_svg": 0.5161,
+        "youtube": 0.0146,
+        "content_assembly": 1.0351,
+        "monetization": 0.1205,
+        "quality_write": 0.0509
+      }
+    },
+    {
+      "base_name": "Belgium_radarvisual_58866e",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1473,
+      "phases": {
+        "preparation": 0.0572,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0292,
+        "content_cleanup_final": 0.0184,
+        "media_svg": 0.4073,
+        "youtube": 0.0104,
+        "content_assembly": 1.431,
+        "monetization": 0.1198,
+        "quality_write": 0.0735
+      }
+    },
+    {
+      "base_name": "Nash_and_Fortenberry_0a9bf2_pilot_testimony_8d6b68",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9026,
+      "phases": {
+        "preparation": 0.0204,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0313,
+        "content_cleanup_final": 0.0179,
+        "media_svg": 0.5364,
+        "youtube": 0.0097,
+        "content_assembly": 1.1374,
+        "monetization": 0.1025,
+        "quality_write": 0.0467
+      }
+    },
+    {
+      "base_name": "Nash_and_Fortenberry_0a9bf2",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1263,
+      "phases": {
+        "preparation": 0.0736,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0374,
+        "content_cleanup_final": 0.0237,
+        "media_svg": 0.2869,
+        "youtube": 0.0193,
+        "content_assembly": 1.4865,
+        "monetization": 0.1212,
+        "quality_write": 0.0773
+      }
+    },
+    {
+      "base_name": "Lady_animal_mutilati_ea7340",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9869,
+      "phases": {
+        "preparation": 0.0567,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0249,
+        "content_cleanup_final": 0.0181,
+        "media_svg": 0.3009,
+        "youtube": 0.0124,
+        "content_assembly": 1.4046,
+        "monetization": 0.096,
+        "quality_write": 0.0729
+      }
+    },
+    {
+      "base_name": "Steven_Michalak_enco_1bbf94",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9957,
+      "phases": {
+        "preparation": 0.0599,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0343,
+        "content_cleanup_final": 0.0339,
+        "media_svg": 0.3072,
+        "youtube": 0.0105,
+        "content_assembly": 1.3636,
+        "monetization": 0.1055,
+        "quality_write": 0.0806
+      }
+    },
+    {
+      "base_name": "Nash_and_Fortenberry_0a9bf2_sighting_explanation_473668",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.325,
+      "phases": {
+        "preparation": 0.0249,
+        "content_cleanup_initial": 0.0002,
+        "internal_links": 0.026,
+        "content_cleanup_final": 0.0195,
+        "media_svg": 0.5428,
+        "youtube": 1.5226,
+        "content_assembly": 1.0301,
+        "monetization": 0.1062,
+        "quality_write": 0.0525
+      }
+    },
+    {
+      "base_name": "Steven_Michalak_enco_1bbf94_falcon_lake_physical_3ae726",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8357,
+      "phases": {
+        "preparation": 0.0278,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0252,
+        "content_cleanup_final": 0.0248,
+        "media_svg": 0.5568,
+        "youtube": 0.01,
+        "content_assembly": 1.0467,
+        "monetization": 0.095,
+        "quality_write": 0.0491
+      }
+    },
+    {
+      "base_name": "Greenhaw_encounter_1_a4bc62",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9911,
+      "phases": {
+        "preparation": 0.052,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0402,
+        "content_cleanup_final": 0.0259,
+        "media_svg": 0.262,
+        "youtube": 0.0172,
+        "content_assembly": 1.3918,
+        "monetization": 0.1305,
+        "quality_write": 0.0713
+      }
+    },
+    {
+      "base_name": "Kinross_incident_195_2ebd01",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1957,
+      "phases": {
+        "preparation": 0.0716,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0395,
+        "content_cleanup_final": 0.0184,
+        "media_svg": 0.4743,
+        "youtube": 0.0094,
+        "content_assembly": 1.3674,
+        "monetization": 0.1249,
+        "quality_write": 0.0898
+      }
+    },
+    {
+      "base_name": "Kinross_incident_195_2ebd01_kinross_records_c2a05d",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8152,
+      "phases": {
+        "preparation": 0.0242,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0241,
+        "content_cleanup_final": 0.0195,
+        "media_svg": 0.5483,
+        "youtube": 0.0167,
+        "content_assembly": 1.0388,
+        "monetization": 0.0975,
+        "quality_write": 0.0458
+      }
+    },
+    {
+      "base_name": "Alan_Godfrey_encount_87fc0b",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2116,
+      "phases": {
+        "preparation": 0.0662,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0399,
+        "content_cleanup_final": 0.0178,
+        "media_svg": 0.2444,
+        "youtube": 0.0103,
+        "content_assembly": 1.5721,
+        "monetization": 0.1616,
+        "quality_write": 0.0987
+      }
+    },
+    {
+      "base_name": "Apollo_11_sightings_2c5554",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 2.8121,
+      "phases": {
+        "preparation": 0.0612,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 0.0219,
+        "content_cleanup_final": 0.024,
+        "media_svg": 0.8141,
+        "youtube": 0.0152,
+        "content_assembly": 1.6976,
+        "monetization": 0.1065,
+        "quality_write": 0.0708
+      }
+    },
+    {
+      "base_name": "Orfeo_Angelucci_enco_bef29a_secret_of_saucers_b60c30",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.885,
+      "phases": {
+        "preparation": 0.0287,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 0.0274,
+        "content_cleanup_final": 0.0339,
+        "media_svg": 0.5324,
+        "youtube": 0.0183,
+        "content_assembly": 1.0586,
+        "monetization": 0.1264,
+        "quality_write": 0.0584
+      }
+    },
+    {
+      "base_name": "John_Martin_sighting_4cec00",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 2.9012,
+      "phases": {
+        "preparation": 0.0623,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0347,
+        "content_cleanup_final": 0.0203,
+        "media_svg": 1.1288,
+        "youtube": 0.0124,
+        "content_assembly": 1.4478,
+        "monetization": 0.1126,
+        "quality_write": 0.0818
+      }
+    },
+    {
+      "base_name": "Rex_Heflin_photograp_32bdf2",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 3.2602,
+      "phases": {
+        "preparation": 0.0638,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0233,
+        "content_cleanup_final": 0.0261,
+        "media_svg": 1.3401,
+        "youtube": 0.0091,
+        "content_assembly": 1.6114,
+        "monetization": 0.1144,
+        "quality_write": 0.0717
+      }
+    },
+    {
+      "base_name": "Trans-en-Provence_en_439c97_official_debate_4f83d8",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.999,
+      "phases": {
+        "preparation": 0.0278,
+        "content_cleanup_initial": 0.0006,
+        "internal_links": 0.0242,
+        "content_cleanup_final": 0.0169,
+        "media_svg": 0.6698,
+        "youtube": 0.0114,
+        "content_assembly": 1.0716,
+        "monetization": 0.1144,
+        "quality_write": 0.0624
+      }
+    },
+    {
+      "base_name": "Trans-en-Provence_en_439c97",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1638,
+      "phases": {
+        "preparation": 0.0665,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0326,
+        "content_cleanup_final": 0.0289,
+        "media_svg": 0.3726,
+        "youtube": 0.0229,
+        "content_assembly": 1.4647,
+        "monetization": 0.0934,
+        "quality_write": 0.0817
+      }
+    },
+    {
+      "base_name": "Stanford_Kentucky_ab_a91f06",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 2.0529,
+      "phases": {
+        "preparation": 0.0516,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0229,
+        "content_cleanup_final": 0.0198,
+        "media_svg": 0.329,
+        "youtube": 0.0136,
+        "content_assembly": 1.436,
+        "monetization": 0.1086,
+        "quality_write": 0.071
+      }
+    },
+    {
+      "base_name": "Stanford_Kentucky_ab_a91f06_competing_explanatio_70f8c0",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8318,
+      "phases": {
+        "preparation": 0.0232,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0249,
+        "content_cleanup_final": 0.0235,
+        "media_svg": 0.5362,
+        "youtube": 0.0147,
+        "content_assembly": 1.0562,
+        "monetization": 0.1019,
+        "quality_write": 0.0507
+      }
+    },
+    {
+      "base_name": "Fort_Itaipu_Brazil_s_89a0ba_fort_itaipu_witnesse_d7ac56",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.8185,
+      "phases": {
+        "preparation": 0.0217,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0327,
+        "content_cleanup_final": 0.0166,
+        "media_svg": 0.5178,
+        "youtube": 0.0116,
+        "content_assembly": 1.0557,
+        "monetization": 0.11,
+        "quality_write": 0.052
+      }
+    },
+    {
+      "base_name": "Gary_Wilcox_encounte_6de9ff",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 2.1923,
+      "phases": {
+        "preparation": 0.0663,
+        "content_cleanup_initial": 0.0002,
+        "internal_links": 0.0296,
+        "content_cleanup_final": 0.0123,
+        "media_svg": 0.5091,
+        "youtube": 0.0196,
+        "content_assembly": 1.3582,
+        "monetization": 0.1302,
+        "quality_write": 0.0667
+      }
+    },
+    {
+      "base_name": "Charles_L_Moody_abdu_780173",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 2.047,
+      "phases": {
+        "preparation": 0.063,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0273,
+        "content_cleanup_final": 0.0215,
+        "media_svg": 0.3353,
+        "youtube": 0.0101,
+        "content_assembly": 1.3936,
+        "monetization": 0.1197,
+        "quality_write": 0.0762
+      }
+    },
+    {
+      "base_name": "Salem_Massachusetts_01ecd1",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 2.2747,
+      "phases": {
+        "preparation": 0.0547,
+        "content_cleanup_initial": 0.0003,
+        "internal_links": 0.0403,
+        "content_cleanup_final": 0.0216,
+        "media_svg": 0.5261,
+        "youtube": 0.0125,
+        "content_assembly": 1.4325,
+        "monetization": 0.1083,
+        "quality_write": 0.0786
+      }
+    },
+    {
+      "base_name": "USS_Theodore_Rooseve_a4867d_roosevelt_pilots_bd8def",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.3788,
+      "phases": {
+        "preparation": 0.0235,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0223,
+        "content_cleanup_final": 0.0259,
+        "media_svg": 0.5064,
+        "youtube": 1.5798,
+        "content_assembly": 1.0669,
+        "monetization": 0.1089,
+        "quality_write": 0.0448
+      }
+    },
+    {
+      "base_name": "Charles_L_Moody_abdu_780173_moody_skeptical_view_8ff380",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.9997,
+      "phases": {
+        "preparation": 0.0189,
+        "content_cleanup_initial": 0.0002,
+        "internal_links": 0.023,
+        "content_cleanup_final": 0.0172,
+        "media_svg": 0.5546,
+        "youtube": 2.2024,
+        "content_assembly": 1.0114,
+        "monetization": 0.127,
+        "quality_write": 0.045
+      }
+    },
+    {
+      "base_name": "USS_Theodore_Rooseve_a4867d",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 4.5297,
+      "phases": {
+        "preparation": 0.0581,
+        "content_cleanup_initial": 0.0004,
+        "internal_links": 0.0234,
+        "content_cleanup_final": 0.0252,
+        "media_svg": 1.3498,
+        "youtube": 0.0134,
+        "content_assembly": 1.4204,
+        "monetization": 1.5647,
+        "quality_write": 0.0743
+      }
+    },
+    {
+      "base_name": "USS_Theodore_Rooseve_a4867d_gimbal_explanations_e23030",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.851,
+      "phases": {
+        "preparation": 0.0252,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 0.0131,
+        "content_cleanup_final": 0.0225,
+        "media_svg": 0.4964,
+        "youtube": 0.0107,
+        "content_assembly": 1.1025,
+        "monetization": 0.1244,
+        "quality_write": 0.0554
+      }
+    },
+    {
+      "base_name": "Antonio_Villas-Boas_1a3f4f",
+      "level": 1,
+      "outcome": "rebuilt",
+      "total_seconds": 2.4157,
+      "phases": {
+        "preparation": 0.0619,
+        "content_cleanup_initial": 0.0009,
+        "internal_links": 0.0266,
+        "content_cleanup_final": 0.0343,
+        "media_svg": 0.5201,
+        "youtube": 0.0136,
+        "content_assembly": 1.5629,
+        "monetization": 0.1227,
+        "quality_write": 0.0727
+      }
+    },
+    {
+      "base_name": "Antonio_Villas-Boas_1a3f4f_medical_credibility_957aa7",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 1.9035,
+      "phases": {
+        "preparation": 0.0236,
+        "content_cleanup_initial": 0.0005,
+        "internal_links": 0.0272,
+        "content_cleanup_final": 0.0209,
+        "media_svg": 0.5904,
+        "youtube": 0.0097,
+        "content_assembly": 1.0541,
+        "monetization": 0.1324,
+        "quality_write": 0.0448
+      }
+    },
+    {
+      "base_name": "USS_Theodore_Rooseve_a4867d_gimbal_video_evidenc_2b867e",
+      "level": 2,
+      "outcome": "rebuilt",
+      "total_seconds": 3.4827,
+      "phases": {
+        "preparation": 0.0212,
+        "content_cleanup_initial": 0.0007,
+        "internal_links": 0.0257,
+        "content_cleanup_final": 0.0289,
+        "media_svg": 0.5011,
+        "youtube": 1.6491,
+        "content_assembly": 1.0744,
+        "monetization": 0.1362,
+        "quality_write": 0.0454
+      }
+    }
+  ],
+  "parallel": {
+    "enabled": true,
+    "mode": "process",
+    "worker_count": 3,
+    "workers_raw": "auto",
+    "max_workers": 3,
+    "progress_interval_seconds": 60.0,
+    "queued_rebuild_pages": 108,
+    "reused_pages": 320,
+    "rebuilt_pages": 108,
+    "error_pages": 0,
+    "page_work_wall_seconds": 457.9013,
+    "rebuilt_pages_per_minute": 14.1515,
+    "queued_rebuild_pages_per_minute": 14.1515,
+    "apparent_page_work_speedup": 0.5628,
+    "youtube_cache_prepare": {
+      "entries": 39655,
+      "updated": true,
+      "elapsed_seconds": 318.4751
+    },
+    "process_worker_diagnostics": {
+      "completed_pages": 108,
+      "successful_pages": 108,
+      "failed_pages": 0,
+      "worker_summary": {
+        "25816": {
+          "pages": 37,
+          "successes": 37,
+          "failures": 0,
+          "total_worker_seconds": 90.4256,
+          "max_worker_seconds": 6.4844,
+          "last_base_name": "Antonio_Villas-Boas_1a3f4f"
+        },
+        "4164": {
+          "pages": 37,
+          "successes": 37,
+          "failures": 0,
+          "total_worker_seconds": 87.8156,
+          "max_worker_seconds": 5.8959,
+          "last_base_name": "USS_Theodore_Rooseve_a4867d_gimbal_video_evidenc_2b867e"
+        },
+        "23612": {
+          "pages": 34,
+          "successes": 34,
+          "failures": 0,
+          "total_worker_seconds": 84.8119,
+          "max_worker_seconds": 6.4853,
+          "last_base_name": "Antonio_Villas-Boas_1a3f4f_medical_credibility_957aa7"
+        }
+      },
+      "slowest_worker_pages": [
+        {
+          "base_name": "Socorro_sighting_by_961b47",
+          "level": 1,
+          "success": true,
+          "worker_pid": 23612,
+          "worker_duration_seconds": 6.4853,
+          "total_seconds": 6.4305,
+          "worker_started_at_utc": "2026-08-05T03:15:16.315369Z",
+          "worker_finished_at_utc": "2026-08-05T03:15:22.745903Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Kenneth_Arnold_s_fir_b696ba",
+          "level": 1,
+          "success": true,
+          "worker_pid": 25816,
+          "worker_duration_seconds": 6.4844,
+          "total_seconds": 6.4344,
+          "worker_started_at_utc": "2026-08-05T03:15:02.451227Z",
+          "worker_finished_at_utc": "2026-08-05T03:15:08.885752Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Kenneth_Arnold_s_fir_b696ba_arnold_evidence_asse_70eb16",
+          "level": 2,
+          "success": true,
+          "worker_pid": 4164,
+          "worker_duration_seconds": 5.8959,
+          "total_seconds": 5.8478,
+          "worker_started_at_utc": "2026-08-05T03:15:05.461149Z",
+          "worker_finished_at_utc": "2026-08-05T03:15:11.309042Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "USS_Theodore_Rooseve_daeaff_roosevelt_encounters_31e150",
+          "level": 2,
+          "success": true,
+          "worker_pid": 25816,
+          "worker_duration_seconds": 5.3193,
+          "total_seconds": 5.2755,
+          "worker_started_at_utc": "2026-08-05T03:15:46.716383Z",
+          "worker_finished_at_utc": "2026-08-05T03:15:51.991889Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Kenneth_Arnold_s_fir_b696ba_arnold_sighting_reco_baea7b",
+          "level": 2,
+          "success": true,
+          "worker_pid": 23612,
+          "worker_duration_seconds": 5.1808,
+          "total_seconds": 5.1368,
+          "worker_started_at_utc": "2026-08-05T03:15:08.546182Z",
+          "worker_finished_at_utc": "2026-08-05T03:15:13.683014Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "USS_Theodore_Rooseve_a4867d",
+          "level": 1,
+          "success": true,
+          "worker_pid": 25816,
+          "worker_duration_seconds": 4.5765,
+          "total_seconds": 4.5297,
+          "worker_started_at_utc": "2026-08-05T03:16:26.051064Z",
+          "worker_finished_at_utc": "2026-08-05T03:16:30.580789Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Stephen_Darbishire_p_f80223",
+          "level": 1,
+          "success": true,
+          "worker_pid": 23612,
+          "worker_duration_seconds": 4.3326,
+          "total_seconds": 4.2843,
+          "worker_started_at_utc": "2026-08-05T03:15:35.483711Z",
+          "worker_finished_at_utc": "2026-08-05T03:15:39.768070Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "Charles_L_Moody_abdu_780173_moody_skeptical_view_8ff380",
+          "level": 2,
+          "success": true,
+          "worker_pid": 4164,
+          "worker_duration_seconds": 4.0435,
+          "total_seconds": 3.9997,
+          "worker_started_at_utc": "2026-08-05T03:16:25.922880Z",
+          "worker_finished_at_utc": "2026-08-05T03:16:29.922614Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "USS_Theodore_Rooseve_a4867d_gimbal_video_evidenc_2b867e",
+          "level": 2,
+          "success": true,
+          "worker_pid": 4164,
+          "worker_duration_seconds": 3.5314,
+          "total_seconds": 3.4827,
+          "worker_started_at_utc": "2026-08-05T03:16:29.969430Z",
+          "worker_finished_at_utc": "2026-08-05T03:16:33.452185Z",
+          "result_merge_seconds": 0.0
+        },
+        {
+          "base_name": "USS_Theodore_Rooseve_a4867d_roosevelt_pilots_bd8def",
+          "level": 2,
+          "success": true,
+          "worker_pid": 23612,
+          "worker_duration_seconds": 3.4271,
+          "total_seconds": 3.3788,
+          "worker_started_at_utc": "2026-08-05T03:16:26.193598Z",
+          "worker_finished_at_utc": "2026-08-05T03:16:29.572436Z",
+          "result_merge_seconds": 0.0
+        }
+      ]
+    }
+  }
+}

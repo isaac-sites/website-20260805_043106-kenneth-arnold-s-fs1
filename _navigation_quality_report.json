@@ -1,0 +1,3092 @@
+{
+  "generated_at_utc": "2026-08-05T03:18:46.948958Z",
+  "summary": {
+    "total_pages_with_permalink": 535,
+    "visible_pages": 428,
+    "hidden_pages": 107,
+    "visible_pages_without_inbound_links": 0,
+    "visible_orphan_pages": 0,
+    "visible_pages_with_empty_branch_sections": 0,
+    "visible_pages_with_missing_parent_target": 0,
+    "branch_navigation_coverage_percent": 100.0,
+    "inline_internal_edge_count": 826,
+    "inline_internal_target_page_count": 428,
+    "visible_pages_gaining_inbound_from_inline_links": 0,
+    "visible_pages_without_inline_inbound_links": 0,
+    "visible_pages_with_inline_outbound_links": 281,
+    "visible_pages_without_inline_outbound_links": 147,
+    "average_inline_inbound_links_per_visible_page": 1.93,
+    "unresolved_inline_internal_target_count": 0,
+    "related_report_edge_count": 0,
+    "related_report_cross_root_edge_count": 0,
+    "related_report_target_page_count": 0,
+    "visible_pages_with_related_report_panel": 0,
+    "visible_pages_without_related_report_panel": 428,
+    "related_report_panel_coverage_percent": 0.0,
+    "average_related_report_links_per_visible_page": 0.0,
+    "unresolved_related_report_target_count": 0,
+    "sample_edge_count": 200
+  },
+  "samples": {
+    "visible_without_inbound_links": [],
+    "visible_orphan_pages": [],
+    "visible_empty_branch_sections": [],
+    "visible_missing_parent_target": [],
+    "visible_gaining_inbound_from_inline_links": [],
+    "visible_without_inline_inbound_links": [],
+    "visible_without_inline_outbound_links": [
+      {
+        "basename": "Alan_Godfrey_encount_87fc0b_abduction_memory_deb_b61d54",
+        "title": "Abduction Debate",
+        "permalink": "/abduction-debate/"
+      },
+      {
+        "basename": "Alan_Godfrey_encount_87fc0b_sighting_timeline_e09e7d",
+        "title": "The Sighting",
+        "permalink": "/the-sighting-789627/"
+      },
+      {
+        "basename": "Alexander_Hamilton_a_75e894",
+        "title": "The Kansas Airship Mystery and Missing Heifer",
+        "permalink": "/alexander-hamilton-airship-1897/"
+      },
+      {
+        "basename": "Andreasson_abduction_e8bccf",
+        "title": "Inside the Andreasson Abduction Evidence Debate",
+        "permalink": "/andreasson-abduction-1967/"
+      },
+      {
+        "basename": "Antonio_Villas-Boas_1a3f4f_claimed_abduction_se_b98894",
+        "title": "The Encounter",
+        "permalink": "/the-encounter-f83755/"
+      },
+      {
+        "basename": "Antonio_Villas-Boas_1a3f4f_recording_publicatio_e58489",
+        "title": "Record Trail",
+        "permalink": "/record-trail/"
+      },
+      {
+        "basename": "Apollo_11_sightings_2c5554_space_light_flashes_6741ad",
+        "title": "Light Flashes",
+        "permalink": "/light-flashes/"
+      },
+      {
+        "basename": "Apollo_11_sightings_2c5554_translunar_object_85cb32",
+        "title": "Object Sighting",
+        "permalink": "/object-sighting/"
+      },
+      {
+        "basename": "Aurora_Texas_airship_165367",
+        "title": "Aurora's Strange Airship Crash: Legend or Reality?",
+        "permalink": "/aurora-texas-airship-crash-1897/"
+      },
+      {
+        "basename": "Aurora_Texas_airship_165367_1897_report_1cfc26",
+        "title": "Original Report",
+        "permalink": "/original-report/"
+      },
+      {
+        "basename": "Battle_of_Los_Angele_969c9e",
+        "title": "What Happened Over Los Angeles in 1942?",
+        "permalink": "/battle-of-los-angeles-1942/"
+      },
+      {
+        "basename": "Belgium_radarvisual_58866e_witness_reports_78ec97",
+        "title": "Witness Reports",
+        "permalink": "/witness-reports-b5f57b/"
+      },
+      {
+        "basename": "Betty_and_Barney_Hil_3bcafa_white_mountains_time_c83d8b",
+        "title": "Encounter",
+        "permalink": "/encounter/"
+      },
+      {
+        "basename": "Carl_Higdon_contact_bfd61b",
+        "title": "What Happened in the Medicine Bow Forest?",
+        "permalink": "/carl-higdon-contact-1974/"
+      },
+      {
+        "basename": "Carl_Higdon_contact_bfd61b_higdon_timeline_e3ec12",
+        "title": "Encounter Timeline",
+        "permalink": "/encounter-timeline-8fbc47/"
+      },
+      {
+        "basename": "Carl_Higdon_contact_bfd61b_sprinkle_investigati_86d71a",
+        "title": "Investigations",
+        "permalink": "/investigations-d01d32/"
+      },
+      {
+        "basename": "Cedric_Allingham_enc_2c7f6b",
+        "title": "The Martian Encounter That Became a Hoax Mystery",
+        "permalink": "/cedric-allingham-encounter-1954/"
+      },
+      {
+        "basename": "Cedric_Allingham_enc_2c7f6b_allingham_photos_57ad64",
+        "title": "Photo Evidence",
+        "permalink": "/photo-evidence/"
+      },
+      {
+        "basename": "Cedric_Allingham_enc_2c7f6b_contactee_culture_72c477",
+        "title": "Belief Context",
+        "permalink": "/belief-context/"
+      },
+      {
+        "basename": "Cedric_Allingham_enc_2c7f6b_moore_hoax_investiga_343dd0",
+        "title": "Hoax Investigation",
+        "permalink": "/hoax-investigation/"
+      },
+      {
+        "basename": "Chiles_and_Whitted_s_33732b",
+        "title": "The 1948 Flight That Challenged UFO Explanations",
+        "permalink": "/chiles-and-whitted-sighting-1948/"
+      },
+      {
+        "basename": "Claude_Vorilhon_cont_ec941c_raelism_origins_9c7d43",
+        "title": "The Movement",
+        "permalink": "/the-movement/"
+      },
+      {
+        "basename": "Clyde_Tombaugh_sight_af62cd_atmospheric_explanat_76edd6",
+        "title": "Explanations",
+        "permalink": "/explanations-bf9417/"
+      },
+      {
+        "basename": "Clyde_Tombaugh_sight_af62cd_tombaugh_testimony_f5dff8",
+        "title": "Witnesses",
+        "permalink": "/witnesses-30dadf/"
+      },
+      {
+        "basename": "Coyne_helicopter_sig_5ce811_crew_testimony_e64831",
+        "title": "Witnesses",
+        "permalink": "/witnesses-c33b11/"
+      },
+      {
+        "basename": "Delphos_Ring_inciden_2952cd_witness_accounts_ffdf73",
+        "title": "Witnesses",
+        "permalink": "/witnesses-0a727c/"
+      },
+      {
+        "basename": "Desvergers_scoutmast_75261f_physical_evidence_fb21e4",
+        "title": "Physical Evidence",
+        "permalink": "/physical-evidence-c3d51c/"
+      },
+      {
+        "basename": "Doctor_X_UFO_encount_5e669c",
+        "title": "Did Doctor X Reveal a UFO Healing Mystery?",
+        "permalink": "/doctor-x-ufo-encounter-1968/"
+      },
+      {
+        "basename": "Doctor_X_UFO_encount_5e669c_encounter_timeline_04b6bd",
+        "title": "Encounter Timeline",
+        "permalink": "/encounter-timeline/"
+      },
+      {
+        "basename": "Doctor_X_UFO_encount_5e669c_healing_claims_0491ee",
+        "title": "Healing Claims",
+        "permalink": "/healing-claims/"
+      },
+      {
+        "basename": "Doctor_X_UFO_encount_5e669c_investigator_debate_49554d",
+        "title": "Investigator Debate",
+        "permalink": "/investigator-debate/"
+      },
+      {
+        "basename": "E_J_Smith_sighting_1_b2b2e6",
+        "title": "The Airline UFO Sighting That Defined 1947",
+        "permalink": "/e-j-smith-sighting-1947/"
+      },
+      {
+        "basename": "E_J_Smith_sighting_1_b2b2e6_1947_ufo_wave_b57830",
+        "title": "1947 Impact",
+        "permalink": "/1947-impact/"
+      },
+      {
+        "basename": "E_J_Smith_sighting_1_b2b2e6_crew_testimony_e64831",
+        "title": "Crew Testimony",
+        "permalink": "/crew-testimony/"
+      },
+      {
+        "basename": "E_J_Smith_sighting_1_b2b2e6_evidence_debate_6278b8",
+        "title": "Evidence Debate",
+        "permalink": "/evidence-debate-28ab45/"
+      },
+      {
+        "basename": "Eagle_River_encounte_9b53c8_pancake_samples_b77839",
+        "title": "The Pancakes",
+        "permalink": "/the-pancakes/"
+      },
+      {
+        "basename": "Eagle_River_encounte_9b53c8_simonton_witness_acc_8e36bf",
+        "title": "Witness Account",
+        "permalink": "/witness-account-a8a098/"
+      },
+      {
+        "basename": "Fatima_apparition_19_f6784f_fatima_messages_cdbec1",
+        "title": "The Messages",
+        "permalink": "/the-messages/"
+      },
+      {
+        "basename": "Fatima_apparition_19_f6784f_miracle_of_the_sun_1270bb",
+        "title": "Miracle",
+        "permalink": "/miracle/"
+      },
+      {
+        "basename": "Flight_19_incident_1_5cc889_flight19_timeline_ac0992",
+        "title": "Final Flight",
+        "permalink": "/final-flight-7a58d8/"
+      },
+      {
+        "basename": "Flight_19_incident_1_5cc889_navy_investigation_02643e",
+        "title": "Navy Findings",
+        "permalink": "/navy-findings/"
+      },
+      {
+        "basename": "Fort_Itaipu_Brazil_s_89a0ba_fort_itaipu_witnesse_d7ac56",
+        "title": "Witnesses",
+        "permalink": "/witnesses-b11915/"
+      },
+      {
+        "basename": "Fred_M_Johnson_sight_b34b17",
+        "title": "The 1947 Sighting That Shaped UFO History",
+        "permalink": "/fred-m-johnson-sighting-1947/"
+      },
+      {
+        "basename": "Fred_M_Johnson_sight_b34b17_johnson_testimony_51fdc4",
+        "title": "Witness Account",
+        "permalink": "/witness-account/"
+      },
+      {
+        "basename": "Fred_M_Johnson_sight_b34b17_military_response_0abb0a",
+        "title": "Military Records",
+        "permalink": "/military-records/"
+      },
+      {
+        "basename": "Gemini_4_sighting_19_9c351d",
+        "title": "What Happened During the Gemini IV Object Sighting?",
+        "permalink": "/gemini-4-sighting-1965/"
+      },
+      {
+        "basename": "Gemini_4_sighting_19_9c351d_debris_explanations_918930",
+        "title": "Debris Theories",
+        "permalink": "/debris-theories/"
+      },
+      {
+        "basename": "Gemini_7_sighting_19_7caf7b",
+        "title": "What Did Gemini 7 Really See in Orbit?",
+        "permalink": "/gemini-7-sighting-1965/"
+      },
+      {
+        "basename": "Gemini_7_sighting_19_7caf7b_ufo_debate_dcfb36",
+        "title": "The Debate",
+        "permalink": "/the-debate/"
+      },
+      {
+        "basename": "George_Adamski_encou_795ba9_scout_ship_photos_5ad9c5",
+        "title": "Scout Ship Photos",
+        "permalink": "/scout-ship-photos/"
+      },
+      {
+        "basename": "George_Adamski_encou_795ba9_witness_corroboratio_0c01a0",
+        "title": "Witnesses",
+        "permalink": "/witnesses/"
+      },
+      {
+        "basename": "Gordon_Cooper_sighti_93b9f6_faith7_fireflies_6438fe",
+        "title": "Fireflies",
+        "permalink": "/fireflies/"
+      },
+      {
+        "basename": "Gorman_dogfight_near_aac8f7_gorman_pilot_account_5efca7",
+        "title": "Pilot Account",
+        "permalink": "/pilot-account/"
+      },
+      {
+        "basename": "Gorman_dogfight_near_aac8f7_project_sign_records_e774d3",
+        "title": "Investigation Files",
+        "permalink": "/investigation-files/"
+      },
+      {
+        "basename": "Gorman_dogfight_near_aac8f7_weather_balloon_expl_65e21a",
+        "title": "Balloon Theory",
+        "permalink": "/balloon-theory/"
+      },
+      {
+        "basename": "Great_Falls_Montana_171d9e",
+        "title": "The 1950 Film That Challenged UFO Investigators",
+        "permalink": "/great-falls-montana-film-1950/"
+      },
+      {
+        "basename": "Great_Falls_Montana_171d9e_air_force_review_35c0e0",
+        "title": "Air Force Review",
+        "permalink": "/air-force-review-5dd064/"
+      },
+      {
+        "basename": "Great_Falls_Montana_171d9e_film_evidence_debate_0465bf",
+        "title": "Evidence Debate",
+        "permalink": "/evidence-debate-da3940/"
+      },
+      {
+        "basename": "Gulf_Breeze_encounte_8373f7_attic_model_controve_c0d893",
+        "title": "Attic Model",
+        "permalink": "/attic-model/"
+      },
+      {
+        "basename": "Gulf_Breeze_encounte_8373f7_gulf_breeze_witnesse_3b163b",
+        "title": "Local Sightings",
+        "permalink": "/local-sightings/"
+      },
+      {
+        "basename": "Herbert_Schirmer_abd_b149a3",
+        "title": "Herbert Schirmer's Encounter: Evidence or Enigma?",
+        "permalink": "/herbert-schirmer-abduction-1967/"
+      },
+      {
+        "basename": "Incident_at_Exeter_1_781528",
+        "title": "What Happened During the Exeter UFO Sighting?",
+        "permalink": "/incident-at-exeter-1965/"
+      },
+      {
+        "basename": "JAL_1628_sighting_ov_aeed7e_crew_testimony_e64831",
+        "title": "Crew Reports",
+        "permalink": "/crew-reports-2f19e7/"
+      },
+      {
+        "basename": "Jet_chase_near_Tehra_5ae5aa",
+        "title": "The Tehran Jet Chase: Evidence Behind An Unresolved...",
+        "permalink": "/jet-chase-near-tehran-iran-1976/"
+      },
+      {
+        "basename": "Jet_chase_near_Tehra_5ae5aa_competing_explanatio_70f8c0",
+        "title": "Explanations",
+        "permalink": "/explanations-2d500c/"
+      },
+      {
+        "basename": "Jet_chase_near_Tehra_5ae5aa_pilot_reports_86d46a",
+        "title": "Pilot Reports",
+        "permalink": "/pilot-reports-c1593c/"
+      },
+      {
+        "basename": "Jimmy_Carter_sightin_759215_proposed_explanation_94a4da",
+        "title": "Explanations",
+        "permalink": "/explanations-088469/"
+      },
+      {
+        "basename": "Jose_A_y_Bonilla_pho_27aa92_bonilla_photos_evide_d64f29",
+        "title": "The Photographs",
+        "permalink": "/the-photographs/"
+      },
+      {
+        "basename": "Kinross_incident_195_2ebd01",
+        "title": "The Interceptor That Vanished Over Lake Superior",
+        "permalink": "/kinross-incident-1953/"
+      },
+      {
+        "basename": "Lady_animal_mutilati_ea7340_animal_mutilation_le_d190ec",
+        "title": "Mutilation Legacy",
+        "permalink": "/mutilation-legacy/"
+      },
+      {
+        "basename": "Larson_abduction_nea_e9683a_hypnosis_memories_1dd6ff",
+        "title": "Hypnosis",
+        "permalink": "/hypnosis/"
+      },
+      {
+        "basename": "Livingston_incident_b2c293",
+        "title": "What Happened at Dechmont Woods in 1979?",
+        "permalink": "/livingston-incident-1979/"
+      },
+      {
+        "basename": "Loch_Raven_Dam_incid_b0e5b6",
+        "title": "Loch Raven Dam: An Unidentified UFO Encounter Examined",
+        "permalink": "/loch-raven-dam-incident-1958/"
+      },
+      {
+        "basename": "Lubbock_Lights_sight_4eabd8",
+        "title": "What Happened During the Lubbock Lights Mystery?",
+        "permalink": "/lubbock-lights-sightings-1951/"
+      },
+      {
+        "basename": "Lubbock_Lights_sight_4eabd8_lubbock_witnesses_2ca09d",
+        "title": "Witnesses",
+        "permalink": "/witnesses-ccb479/"
+      },
+      {
+        "basename": "Magenta_Italy_crash_5ee1aa_magenta_incident_tim_2c5d41",
+        "title": "The Incident",
+        "permalink": "/the-incident/"
+      },
+      {
+        "basename": "Maury_Island_inciden_ec4432",
+        "title": "Maury Island: Hoax, Mystery, and Evidence",
+        "permalink": "/maury-island-incident-1947/"
+      },
+      {
+        "basename": "Maury_Island_inciden_ec4432_army_investigation_356a2c",
+        "title": "Military Inquiry",
+        "permalink": "/military-inquiry/"
+      },
+      {
+        "basename": "Maury_Island_inciden_ec4432_debris_evidence_f35e8e",
+        "title": "Debris Evidence",
+        "permalink": "/debris-evidence/"
+      },
+      {
+        "basename": "Maury_Island_inciden_ec4432_harold_dahl_testimon_6017f5",
+        "title": "Dahl Testimony",
+        "permalink": "/dahl-testimony/"
+      },
+      {
+        "basename": "McMinnville_photogra_4e1af3",
+        "title": "The UFO Photos That Still Defy Explanation",
+        "permalink": "/mc-minnville-photographs-1950/"
+      },
+      {
+        "basename": "McMinnville_photogra_4e1af3_condon_report_histor_8994e0",
+        "title": "Official Reviews",
+        "permalink": "/official-reviews-78a1ef/"
+      },
+      {
+        "basename": "McMinnville_photogra_4e1af3_skeptical_explanatio_26ae60",
+        "title": "Skeptical Views",
+        "permalink": "/skeptical-views/"
+      },
+      {
+        "basename": "McMinnville_photogra_4e1af3_trent_photo_evidence_c64225",
+        "title": "Photo Evidence",
+        "permalink": "/photo-evidence-a8b107/"
+      },
+      {
+        "basename": "Middle_East_UAP_vide_4a6c55_mq9_recording_cc16f3",
+        "title": "The Footage",
+        "permalink": "/the-footage/"
+      },
+      {
+        "basename": "Oloron_Angel_Hair_in_61d462_angel_hair_explanati_9eb476",
+        "title": "Angel Hair",
+        "permalink": "/angel-hair/"
+      },
+      {
+        "basename": "Orfeo_Angelucci_enco_bef29a",
+        "title": "Orfeo Angelucci's UFO Encounter: Claims, Evidence,...",
+        "permalink": "/orfeo-angelucci-encounter-1955/"
+      },
+      {
+        "basename": "Orfeo_Angelucci_enco_bef29a_1952_encounter_claim_f622a2",
+        "title": "Encounter Claims",
+        "permalink": "/encounter-claims/"
+      },
+      {
+        "basename": "Orfeo_Angelucci_enco_bef29a_evidence_skepticism_b6a87a",
+        "title": "Evidence Debate",
+        "permalink": "/evidence-debate-e50a9a/"
+      },
+      {
+        "basename": "Orfeo_Angelucci_enco_bef29a_secret_of_saucers_b60c30",
+        "title": "Secret of Saucers",
+        "permalink": "/secret-of-saucers/"
+      },
+      {
+        "basename": "Puerto_Rico_infrared_d310d5",
+        "title": "What the Aguadilla Infrared Video Really Revealed",
+        "permalink": "/puerto-rico-infrared-video-2013/"
+      },
+      {
+        "basename": "RB-47_radarvisual_in_5bf2a6",
+        "title": "The RB 47 Encounter: Radar, Witnesses, Mystery",
+        "permalink": "/rb-47-radarvisual-incident-1957/"
+      },
+      {
+        "basename": "RB-47_radarvisual_in_5bf2a6_crew_testimony_e64831",
+        "title": "Crew Reports",
+        "permalink": "/crew-reports/"
+      },
+      {
+        "basename": "RB-47_radarvisual_in_5bf2a6_official_reviews_5e4bdf",
+        "title": "Official Reviews",
+        "permalink": "/official-reviews/"
+      },
+      {
+        "basename": "Red_Bluff_sighting_1_f72200",
+        "title": "What Happened During the Red Bluff Sighting?",
+        "permalink": "/red-bluff-sighting-1960/"
+      },
+      {
+        "basename": "Reinhold_Schmidt_enc_731a71",
+        "title": "The Kearney UFO Encounter and Its Unanswered Questions",
+        "permalink": "/reinhold-schmidt-encounter-1957/"
+      },
+      {
+        "basename": "Reinhold_Schmidt_enc_731a71_blue_book_investigat_88e50f",
+        "title": "Blue Book",
+        "permalink": "/blue-book/"
+      },
+      {
+        "basename": "Reinhold_Schmidt_enc_731a71_credibility_controve_3c7d71",
+        "title": "Credibility Debate",
+        "permalink": "/credibility-debate/"
+      },
+      {
+        "basename": "Reinhold_Schmidt_enc_731a71_schmidt_testimony_d7b076",
+        "title": "Witness Account",
+        "permalink": "/witness-account-f89a79/"
+      },
+      {
+        "basename": "Rendlesham_Forest_in_f98080",
+        "title": "Rendlesham Forest: Evidence Behind the Mystery",
+        "permalink": "/rendlesham-forest-incident-1980/"
+      },
+      {
+        "basename": "Reverend_W_B_Gill_si_c31d68_gill_witness_account_307df4",
+        "title": "Witness Account",
+        "permalink": "/witness-account-06c440/"
+      },
+      {
+        "basename": "Reverend_W_B_Gill_si_c31d68_raaf_investigation_dd1337",
+        "title": "Official Debate",
+        "permalink": "/official-debate-9979e8/"
+      },
+      {
+        "basename": "Rex_Heflin_photograp_32bdf2_blue_book_review_0f3601",
+        "title": "Official Review",
+        "permalink": "/official-review-6de1ee/"
+      },
+      {
+        "basename": "Rex_Heflin_photograp_32bdf2_heflin_encounter_tim_b6e1e5",
+        "title": "The Encounter",
+        "permalink": "/the-encounter-00bff2/"
+      },
+      {
+        "basename": "Rex_Heflin_photograp_32bdf2_photo_evidence_debat_88b60d",
+        "title": "Photo Evidence",
+        "permalink": "/photo-evidence-6dc7e4/"
+      },
+      {
+        "basename": "Salem_Massachusetts_01ecd1",
+        "title": "What the Salem Photograph Reveals About UFO Evidence",
+        "permalink": "/salem-massachusetts-photograph-1952/"
+      },
+      {
+        "basename": "Salem_Massachusetts_01ecd1_alpert_witness_accou_509636",
+        "title": "Witness Account",
+        "permalink": "/witness-account-a3a003/"
+      },
+      {
+        "basename": "Salem_Massachusetts_01ecd1_photo_explanation_de_61a646",
+        "title": "Photo Debate",
+        "permalink": "/photo-debate-15e91d/"
+      },
+      {
+        "basename": "Stephen_Darbishire_p_f80223",
+        "title": "The Coniston UFO Photo: Evidence or Hoax?",
+        "permalink": "/stephen-darbishire-photograph-1954/"
+      },
+      {
+        "basename": "The_Northeast_Blacko_c3cfee",
+        "title": "How One Grid Failure Darkened the Northeast",
+        "permalink": "/the-northeast-blackout-1965/"
+      },
+      {
+        "basename": "The_Northeast_Blacko_c3cfee_official_investigati_2d6021",
+        "title": "Official Findings",
+        "permalink": "/official-findings/"
+      },
+      {
+        "basename": "The_Northeast_Blacko_c3cfee_public_impact_dd079f",
+        "title": "Public Impact",
+        "permalink": "/public-impact/"
+      },
+      {
+        "basename": "The_Northeast_Blacko_c3cfee_relay_trigger_dce09d",
+        "title": "Relay Trigger",
+        "permalink": "/relay-trigger/"
+      },
+      {
+        "basename": "Thomas_F_Mantell_inc_2ce7ee",
+        "title": "A Fatal Chase Through Incomplete Evidence",
+        "permalink": "/thomas-f-mantell-incident-1948/"
+      },
+      {
+        "basename": "Thomas_F_Mantell_inc_2ce7ee_mantell_final_flight_098867",
+        "title": "Final Flight",
+        "permalink": "/final-flight/"
+      },
+      {
+        "basename": "Thomas_F_Mantell_inc_2ce7ee_venus_skyhook_explan_e67031",
+        "title": "Explanations",
+        "permalink": "/explanations-6694f0/"
+      },
+      {
+        "basename": "Travis_Walton_abduct_612999",
+        "title": "What Happened in the Travis Walton Case?",
+        "permalink": "/travis-walton-abduction-1975/"
+      },
+      {
+        "basename": "Travis_Walton_abduct_612999_polygraph_debate_a1b135",
+        "title": "Polygraph Debate",
+        "permalink": "/polygraph-debate/"
+      },
+      {
+        "basename": "Travis_Walton_abduct_612999_walton_timeline_73e18c",
+        "title": "Timeline",
+        "permalink": "/timeline/"
+      },
+      {
+        "basename": "Tremonton_Utah_film_79b5ee_bird_explanation_d3b145",
+        "title": "Bird Explanation",
+        "permalink": "/bird-explanation/"
+      }
+    ],
+    "visible_without_related_report_panel": [
+      {
+        "basename": "Alan_Godfrey_encount_87fc0b",
+        "title": "Alan Godfrey's Todmorden UFO Encounter Explained",
+        "permalink": "/alan-godfrey-encounter-1980/"
+      },
+      {
+        "basename": "Alan_Godfrey_encount_87fc0b_abduction_memory_deb_b61d54",
+        "title": "Abduction Debate",
+        "permalink": "/abduction-debate/"
+      },
+      {
+        "basename": "Alan_Godfrey_encount_87fc0b_evidence_records_949703",
+        "title": "Evidence Trail",
+        "permalink": "/evidence-trail-9eed85/"
+      },
+      {
+        "basename": "Alan_Godfrey_encount_87fc0b_sighting_timeline_e09e7d",
+        "title": "The Sighting",
+        "permalink": "/the-sighting-789627/"
+      },
+      {
+        "basename": "Alexander_Hamilton_a_75e894",
+        "title": "The Kansas Airship Mystery and Missing Heifer",
+        "permalink": "/alexander-hamilton-airship-1897/"
+      },
+      {
+        "basename": "Alexander_Hamilton_a_75e894_airship_wave_context_22dd30",
+        "title": "1897 Airship Wave",
+        "permalink": "/1897-airship-wave/"
+      },
+      {
+        "basename": "Alexander_Hamilton_a_75e894_hamilton_testimony_8dcbcd",
+        "title": "Hamilton Testimony",
+        "permalink": "/hamilton-testimony/"
+      },
+      {
+        "basename": "Alexander_Hamilton_a_75e894_leroy_hoax_explanati_2f4945",
+        "title": "Hoax Theory",
+        "permalink": "/hoax-theory/"
+      },
+      {
+        "basename": "Andreasson_abduction_e8bccf",
+        "title": "Inside the Andreasson Abduction Evidence Debate",
+        "permalink": "/andreasson-abduction-1967/"
+      },
+      {
+        "basename": "Andreasson_abduction_e8bccf_family_witnesses_df7d24",
+        "title": "Family Witnesses",
+        "permalink": "/family-witnesses/"
+      },
+      {
+        "basename": "Andreasson_abduction_e8bccf_fowler_investigation_3ed8cf",
+        "title": "Fowler Investigation",
+        "permalink": "/fowler-investigation/"
+      },
+      {
+        "basename": "Andreasson_abduction_e8bccf_hypnosis_memory_8dc757",
+        "title": "Recovered Memories",
+        "permalink": "/recovered-memories/"
+      },
+      {
+        "basename": "Antonio_Villas-Boas_1a3f4f",
+        "title": "Why the Villas Boas Case Still Divides Investigators",
+        "permalink": "/antonio-villas-boas-abduction-1957/"
+      },
+      {
+        "basename": "Antonio_Villas-Boas_1a3f4f_claimed_abduction_se_b98894",
+        "title": "The Encounter",
+        "permalink": "/the-encounter-f83755/"
+      },
+      {
+        "basename": "Antonio_Villas-Boas_1a3f4f_medical_credibility_957aa7",
+        "title": "Evidence Test",
+        "permalink": "/evidence-test/"
+      },
+      {
+        "basename": "Antonio_Villas-Boas_1a3f4f_recording_publicatio_e58489",
+        "title": "Record Trail",
+        "permalink": "/record-trail/"
+      },
+      {
+        "basename": "Apollo_11_sightings_2c5554",
+        "title": "What Did Apollo 11 Actually See In Space?",
+        "permalink": "/apollo-11-sightings-1969/"
+      },
+      {
+        "basename": "Apollo_11_sightings_2c5554_apollo_records_5549f0",
+        "title": "Mission Records",
+        "permalink": "/mission-records/"
+      },
+      {
+        "basename": "Apollo_11_sightings_2c5554_space_light_flashes_6741ad",
+        "title": "Light Flashes",
+        "permalink": "/light-flashes/"
+      },
+      {
+        "basename": "Apollo_11_sightings_2c5554_translunar_object_85cb32",
+        "title": "Object Sighting",
+        "permalink": "/object-sighting/"
+      },
+      {
+        "basename": "Aurora_Texas_airship_165367",
+        "title": "Aurora's Strange Airship Crash: Legend or Reality?",
+        "permalink": "/aurora-texas-airship-crash-1897/"
+      },
+      {
+        "basename": "Aurora_Texas_airship_165367_1897_report_1cfc26",
+        "title": "Original Report",
+        "permalink": "/original-report/"
+      },
+      {
+        "basename": "Aurora_Texas_airship_165367_hoax_explanations_022016",
+        "title": "Explanations",
+        "permalink": "/explanations-9851a0/"
+      },
+      {
+        "basename": "Aurora_Texas_airship_165367_witness_legend_3fa874",
+        "title": "Witnesses",
+        "permalink": "/witnesses-5cd743/"
+      },
+      {
+        "basename": "Battle_of_Los_Angele_969c9e",
+        "title": "What Happened Over Los Angeles in 1942?",
+        "permalink": "/battle-of-los-angeles-1942/"
+      },
+      {
+        "basename": "Battle_of_Los_Angele_969c9e_false_alarm_causes_79d2bc",
+        "title": "Possible Causes",
+        "permalink": "/possible-causes/"
+      },
+      {
+        "basename": "Battle_of_Los_Angele_969c9e_night_timeline_48333e",
+        "title": "Night Timeline",
+        "permalink": "/night-timeline/"
+      },
+      {
+        "basename": "Battle_of_Los_Angele_969c9e_witness_evidence_e7cf2e",
+        "title": "Evidence Debate",
+        "permalink": "/evidence-debate-515d91/"
+      },
+      {
+        "basename": "Belgium_radarvisual_58866e",
+        "title": "What Happened During Belgium's UFO Wave?",
+        "permalink": "/belgium-radarvisual-sightings-1989/"
+      },
+      {
+        "basename": "Belgium_radarvisual_58866e_f16_intercept_radar_7bec6c",
+        "title": "F 16 Intercept",
+        "permalink": "/f-16-intercept/"
+      },
+      {
+        "basename": "Belgium_radarvisual_58866e_petit_rechain_photo_52884c",
+        "title": "Photo Debate",
+        "permalink": "/photo-debate-63be31/"
+      },
+      {
+        "basename": "Belgium_radarvisual_58866e_witness_reports_78ec97",
+        "title": "Witness Reports",
+        "permalink": "/witness-reports-b5f57b/"
+      },
+      {
+        "basename": "Betty_and_Barney_Hil_3bcafa",
+        "title": "From Strange Light to Alien Abduction",
+        "permalink": "/betty-and-barney-hill-abduction-1961/"
+      },
+      {
+        "basename": "Betty_and_Barney_Hil_3bcafa_early_reports_and_fi_0d1c50",
+        "title": "Early Records",
+        "permalink": "/early-records/"
+      },
+      {
+        "basename": "Betty_and_Barney_Hil_3bcafa_hypnosis_and_memory_c88449",
+        "title": "Recovered Memory",
+        "permalink": "/recovered-memory/"
+      },
+      {
+        "basename": "Betty_and_Barney_Hil_3bcafa_white_mountains_time_c83d8b",
+        "title": "Encounter",
+        "permalink": "/encounter/"
+      },
+      {
+        "basename": "BOAC_stratocruiser_s_01e20e",
+        "title": "What Happened Over Labrador in 1954?",
+        "permalink": "/boac-stratocruiser-sighting-1954/"
+      },
+      {
+        "basename": "BOAC_stratocruiser_s_01e20e_howard_testimony_84c56b",
+        "title": "Witnesses",
+        "permalink": "/witnesses-9ca4e5/"
+      },
+      {
+        "basename": "BOAC_stratocruiser_s_01e20e_labrador_flight_time_0b5a67",
+        "title": "Flight Timeline",
+        "permalink": "/flight-timeline/"
+      },
+      {
+        "basename": "BOAC_stratocruiser_s_01e20e_official_investigati_21722a",
+        "title": "Investigations",
+        "permalink": "/investigations-1a4c01/"
+      },
+      {
+        "basename": "Carl_Higdon_contact_bfd61b",
+        "title": "What Happened in the Medicine Bow Forest?",
+        "permalink": "/carl-higdon-contact-1974/"
+      },
+      {
+        "basename": "Carl_Higdon_contact_bfd61b_higdon_evidence_84546a",
+        "title": "Evidence Claims",
+        "permalink": "/evidence-claims/"
+      },
+      {
+        "basename": "Carl_Higdon_contact_bfd61b_higdon_timeline_e3ec12",
+        "title": "Encounter Timeline",
+        "permalink": "/encounter-timeline-8fbc47/"
+      },
+      {
+        "basename": "Carl_Higdon_contact_bfd61b_sprinkle_investigati_86d71a",
+        "title": "Investigations",
+        "permalink": "/investigations-d01d32/"
+      },
+      {
+        "basename": "CashLandrum_incident_7ad7d9",
+        "title": "What Happened on the Texas Road in 1980?",
+        "permalink": "/cash-landrum-incident-1980/"
+      },
+      {
+        "basename": "CashLandrum_incident_7ad7d9_encounter_timeline_04b6bd",
+        "title": "Encounter Timeline",
+        "permalink": "/encounter-timeline-398b97/"
+      },
+      {
+        "basename": "CashLandrum_incident_7ad7d9_medical_evidence_4d8e3e",
+        "title": "Health Claims",
+        "permalink": "/health-claims/"
+      },
+      {
+        "basename": "CashLandrum_incident_7ad7d9_official_investigati_21722a",
+        "title": "Investigations",
+        "permalink": "/investigations-186542/"
+      },
+      {
+        "basename": "Cedric_Allingham_enc_2c7f6b",
+        "title": "The Martian Encounter That Became a Hoax Mystery",
+        "permalink": "/cedric-allingham-encounter-1954/"
+      },
+      {
+        "basename": "Cedric_Allingham_enc_2c7f6b_allingham_photos_57ad64",
+        "title": "Photo Evidence",
+        "permalink": "/photo-evidence/"
+      },
+      {
+        "basename": "Cedric_Allingham_enc_2c7f6b_contactee_culture_72c477",
+        "title": "Belief Context",
+        "permalink": "/belief-context/"
+      },
+      {
+        "basename": "Cedric_Allingham_enc_2c7f6b_moore_hoax_investiga_343dd0",
+        "title": "Hoax Investigation",
+        "permalink": "/hoax-investigation/"
+      },
+      {
+        "basename": "Charles_B_Moore_sigh_63eb1f",
+        "title": "What the White Sands Sighting Revealed",
+        "permalink": "/charles-b-moore-sighting-1949/"
+      },
+      {
+        "basename": "Charles_B_Moore_sigh_63eb1f_case_explanations_863f67",
+        "title": "Explanations",
+        "permalink": "/explanations-e0cbd7/"
+      },
+      {
+        "basename": "Charles_B_Moore_sigh_63eb1f_moore_testimony_0c88c3",
+        "title": "Witnesses",
+        "permalink": "/witnesses-ab0853/"
+      },
+      {
+        "basename": "Charles_B_Moore_sigh_63eb1f_white_sands_evidence_2e8950",
+        "title": "Evidence Trail",
+        "permalink": "/evidence-trail-39451a/"
+      },
+      {
+        "basename": "Charles_L_Moody_abdu_780173",
+        "title": "Charles Moody's Desert Encounter: Case and Evidence",
+        "permalink": "/charles-l-moody-abduction-1975/"
+      },
+      {
+        "basename": "Charles_L_Moody_abdu_780173_moody_encounter_acco_0b8951",
+        "title": "The Encounter",
+        "permalink": "/the-encounter-bdf159/"
+      },
+      {
+        "basename": "Charles_L_Moody_abdu_780173_moody_evidence_revie_6e458f",
+        "title": "Evidence",
+        "permalink": "/evidence-57715c/"
+      },
+      {
+        "basename": "Charles_L_Moody_abdu_780173_moody_skeptical_view_8ff380",
+        "title": "Alternative Views",
+        "permalink": "/alternative-views/"
+      },
+      {
+        "basename": "Chiles_and_Whitted_s_33732b",
+        "title": "The 1948 Flight That Challenged UFO Explanations",
+        "permalink": "/chiles-and-whitted-sighting-1948/"
+      },
+      {
+        "basename": "Chiles_and_Whitted_s_33732b_meteor_craft_debate_d091ba",
+        "title": "Meteor Debate",
+        "permalink": "/meteor-debate/"
+      },
+      {
+        "basename": "Chiles_and_Whitted_s_33732b_pilot_testimony_8d6b68",
+        "title": "Pilot Testimony",
+        "permalink": "/pilot-testimony/"
+      },
+      {
+        "basename": "Chiles_and_Whitted_s_33732b_project_sign_review_8f53e8",
+        "title": "The United States Air Force’s Investigation Of The...",
+        "permalink": "/the-united-states-air-forces/"
+      },
+      {
+        "basename": "Cisco_Grove_incident_29820a",
+        "title": "What Happened at Cisco Grove?",
+        "permalink": "/cisco-grove-incident-1964/"
+      },
+      {
+        "basename": "Cisco_Grove_incident_29820a_blue_book_records_bab75d",
+        "title": "Blue Book",
+        "permalink": "/blue-book-28410f/"
+      },
+      {
+        "basename": "Cisco_Grove_incident_29820a_evidence_debate_6278b8",
+        "title": "Evidence Debate",
+        "permalink": "/evidence-debate-65e819/"
+      },
+      {
+        "basename": "Cisco_Grove_incident_29820a_shrum_testimony_a1eaf8",
+        "title": "Witness Account",
+        "permalink": "/witness-account-e03769/"
+      },
+      {
+        "basename": "Claude_Vorilhon_cont_ec941c",
+        "title": "The 1973 Encounter That Created Raelism",
+        "permalink": "/claude-vorilhon-contact-1973/"
+      },
+      {
+        "basename": "Claude_Vorilhon_cont_ec941c_contact_evidence_aad893",
+        "title": "The Evidence",
+        "permalink": "/the-evidence/"
+      },
+      {
+        "basename": "Claude_Vorilhon_cont_ec941c_raelism_origins_9c7d43",
+        "title": "The Movement",
+        "permalink": "/the-movement/"
+      },
+      {
+        "basename": "Claude_Vorilhon_cont_ec941c_vorilhon_testimony_8edbb8",
+        "title": "The Testimony",
+        "permalink": "/the-testimony/"
+      },
+      {
+        "basename": "Clyde_Tombaugh_sight_af62cd",
+        "title": "What Happened During Tombaugh's 1949 Sky Sighting?",
+        "permalink": "/clyde-tombaugh-sighting-1949/"
+      },
+      {
+        "basename": "Clyde_Tombaugh_sight_af62cd_atmospheric_explanat_76edd6",
+        "title": "Explanations",
+        "permalink": "/explanations-bf9417/"
+      },
+      {
+        "basename": "Clyde_Tombaugh_sight_af62cd_project_blue_book_07c262",
+        "title": "Investigations",
+        "permalink": "/investigations-674c2c/"
+      },
+      {
+        "basename": "Clyde_Tombaugh_sight_af62cd_tombaugh_testimony_f5dff8",
+        "title": "Witnesses",
+        "permalink": "/witnesses-30dadf/"
+      },
+      {
+        "basename": "Coyne_helicopter_sig_5ce811",
+        "title": "What Happened During the Coyne Helicopter Encounter?",
+        "permalink": "/coyne-helicopter-sighting-1973/"
+      },
+      {
+        "basename": "Coyne_helicopter_sig_5ce811_alternative_explanat_ee4fa0",
+        "title": "Explanations",
+        "permalink": "/explanations-29a5ea/"
+      },
+      {
+        "basename": "Coyne_helicopter_sig_5ce811_crew_testimony_e64831",
+        "title": "Witnesses",
+        "permalink": "/witnesses-c33b11/"
+      },
+      {
+        "basename": "Coyne_helicopter_sig_5ce811_official_records_9b05ad",
+        "title": "Documents",
+        "permalink": "/documents/"
+      },
+      {
+        "basename": "Cynthia_Appleton_enc_304111",
+        "title": "What Happened in the Aston UFO Encounter?",
+        "permalink": "/cynthia-appleton-encounter-1957/"
+      },
+      {
+        "basename": "Cynthia_Appleton_enc_304111_aston_timeline_8ca051",
+        "title": "Encounter Timeline",
+        "permalink": "/encounter-timeline-0369e3/"
+      },
+      {
+        "basename": "Cynthia_Appleton_enc_304111_evidence_verificatio_6eeee1",
+        "title": "Evidence Debate",
+        "permalink": "/evidence-debate-af1edd/"
+      },
+      {
+        "basename": "Cynthia_Appleton_enc_304111_witness_testimony_0307ed",
+        "title": "Witness Account",
+        "permalink": "/witness-account-d72dab/"
+      },
+      {
+        "basename": "Day_family_abduction_fe300b",
+        "title": "The Aveley Abduction: Witnesses, Evidence, and Mystery",
+        "permalink": "/day-family-abduction-1974/"
+      },
+      {
+        "basename": "Day_family_abduction_fe300b_day_family_witnesses_9a8cdf",
+        "title": "Witnesses",
+        "permalink": "/witnesses-e9c742/"
+      },
+      {
+        "basename": "Day_family_abduction_fe300b_evidence_explanation_2b2e92",
+        "title": "Evidence Debate",
+        "permalink": "/evidence-debate-812746/"
+      },
+      {
+        "basename": "Day_family_abduction_fe300b_missing_time_memory_233249",
+        "title": "Missing Time",
+        "permalink": "/missing-time/"
+      },
+      {
+        "basename": "Delphos_Ring_inciden_2952cd",
+        "title": "The Delphos Ring Mystery and Its Physical Evidence",
+        "permalink": "/delphos-ring-incident-1971/"
+      },
+      {
+        "basename": "Delphos_Ring_inciden_2952cd_natural_explanations_f1b4c3",
+        "title": "Explanations",
+        "permalink": "/explanations-e65ad1/"
+      },
+      {
+        "basename": "Delphos_Ring_inciden_2952cd_soil_trace_findings_4e763a",
+        "title": "Soil Trace",
+        "permalink": "/soil-trace/"
+      },
+      {
+        "basename": "Delphos_Ring_inciden_2952cd_witness_accounts_ffdf73",
+        "title": "Witnesses",
+        "permalink": "/witnesses-0a727c/"
+      },
+      {
+        "basename": "Desvergers_scoutmast_75261f",
+        "title": "The Scoutmaster Case: Evidence or Hoax?",
+        "permalink": "/desvergers-scoutmaster-sighting-1952/"
+      },
+      {
+        "basename": "Desvergers_scoutmast_75261f_blue_book_investigat_88e50f",
+        "title": "Blue Book Review",
+        "permalink": "/blue-book-review-66bf91/"
+      },
+      {
+        "basename": "Desvergers_scoutmast_75261f_hoax_debate_bff72c",
+        "title": "Hoax Debate",
+        "permalink": "/hoax-debate-a310cb/"
+      },
+      {
+        "basename": "Desvergers_scoutmast_75261f_physical_evidence_fb21e4",
+        "title": "Physical Evidence",
+        "permalink": "/physical-evidence-c3d51c/"
+      },
+      {
+        "basename": "Doctor_X_UFO_encount_5e669c",
+        "title": "Did Doctor X Reveal a UFO Healing Mystery?",
+        "permalink": "/doctor-x-ufo-encounter-1968/"
+      },
+      {
+        "basename": "Doctor_X_UFO_encount_5e669c_encounter_timeline_04b6bd",
+        "title": "Encounter Timeline",
+        "permalink": "/encounter-timeline/"
+      },
+      {
+        "basename": "Doctor_X_UFO_encount_5e669c_healing_claims_0491ee",
+        "title": "Healing Claims",
+        "permalink": "/healing-claims/"
+      },
+      {
+        "basename": "Doctor_X_UFO_encount_5e669c_investigator_debate_49554d",
+        "title": "Investigator Debate",
+        "permalink": "/investigator-debate/"
+      },
+      {
+        "basename": "E_J_Smith_sighting_1_b2b2e6",
+        "title": "The Airline UFO Sighting That Defined 1947",
+        "permalink": "/e-j-smith-sighting-1947/"
+      },
+      {
+        "basename": "E_J_Smith_sighting_1_b2b2e6_1947_ufo_wave_b57830",
+        "title": "1947 Impact",
+        "permalink": "/1947-impact/"
+      },
+      {
+        "basename": "E_J_Smith_sighting_1_b2b2e6_crew_testimony_e64831",
+        "title": "Crew Testimony",
+        "permalink": "/crew-testimony/"
+      },
+      {
+        "basename": "E_J_Smith_sighting_1_b2b2e6_evidence_debate_6278b8",
+        "title": "Evidence Debate",
+        "permalink": "/evidence-debate-28ab45/"
+      },
+      {
+        "basename": "Eagle_River_encounte_9b53c8",
+        "title": "The Eagle River Pancake Encounter Explained",
+        "permalink": "/eagle-river-encounter-1961/"
+      },
+      {
+        "basename": "Eagle_River_encounte_9b53c8_blue_book_investigat_88e50f",
+        "title": "Blue Book Case",
+        "permalink": "/blue-book-case/"
+      },
+      {
+        "basename": "Eagle_River_encounte_9b53c8_pancake_samples_b77839",
+        "title": "The Pancakes",
+        "permalink": "/the-pancakes/"
+      },
+      {
+        "basename": "Eagle_River_encounte_9b53c8_simonton_witness_acc_8e36bf",
+        "title": "Witness Account",
+        "permalink": "/witness-account-a8a098/"
+      },
+      {
+        "basename": "Farmington_sightings_46c4ec",
+        "title": "What Crossed Farmington's Skies in 1950?",
+        "permalink": "/farmington-sightings-1950/"
+      },
+      {
+        "basename": "Farmington_sightings_46c4ec_farmington_explanati_2f701f",
+        "title": "Explanations",
+        "permalink": "/explanations-77e10d/"
+      },
+      {
+        "basename": "Farmington_sightings_46c4ec_farmington_timeline_b899ba",
+        "title": "Timeline",
+        "permalink": "/timeline-d3ada8/"
+      },
+      {
+        "basename": "Farmington_sightings_46c4ec_farmington_witnesses_e6dc61",
+        "title": "Witnesses",
+        "permalink": "/witnesses-35759e/"
+      },
+      {
+        "basename": "Fatima_apparition_19_f6784f",
+        "title": "What Happened at Fátima in 1917?",
+        "permalink": "/fatima-apparition-1917/"
+      },
+      {
+        "basename": "Fatima_apparition_19_f6784f_church_investigation_2d97a6",
+        "title": "Church Review",
+        "permalink": "/church-review/"
+      },
+      {
+        "basename": "Fatima_apparition_19_f6784f_fatima_messages_cdbec1",
+        "title": "The Messages",
+        "permalink": "/the-messages/"
+      },
+      {
+        "basename": "Fatima_apparition_19_f6784f_miracle_of_the_sun_1270bb",
+        "title": "Miracle",
+        "permalink": "/miracle/"
+      },
+      {
+        "basename": "Flatwoods_incident_1_ff4486",
+        "title": "What Happened on the Flatwoods Hillside?",
+        "permalink": "/flatwoods-incident-1952/"
+      },
+      {
+        "basename": "Flatwoods_incident_1_ff4486_evidence_history_db7fab",
+        "title": "Evidence Trail",
+        "permalink": "/evidence-trail-61f12b/"
+      },
+      {
+        "basename": "Flatwoods_incident_1_ff4486_meteor_owl_explanati_d86fff",
+        "title": "Explanations",
+        "permalink": "/explanations-f3884d/"
+      },
+      {
+        "basename": "Flatwoods_incident_1_ff4486_witness_accounts_ffdf73",
+        "title": "Witnesses",
+        "permalink": "/witnesses-7fc319/"
+      }
+    ],
+    "top_inline_internal_targets": [
+      {
+        "basename": "Alexander_Hamilton_a_75e894",
+        "title": "The Kansas Airship Mystery and Missing Heifer",
+        "permalink": "/alexander-hamilton-airship-1897/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Andreasson_abduction_e8bccf",
+        "title": "Inside the Andreasson Abduction Evidence Debate",
+        "permalink": "/andreasson-abduction-1967/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Battle_of_Los_Angele_969c9e",
+        "title": "What Happened Over Los Angeles in 1942?",
+        "permalink": "/battle-of-los-angeles-1942/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Belgium_radarvisual_58866e_witness_reports_78ec97",
+        "title": "Witness Reports",
+        "permalink": "/witness-reports-b5f57b/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Betty_and_Barney_Hil_3bcafa_white_mountains_time_c83d8b",
+        "title": "Encounter",
+        "permalink": "/encounter/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "BOAC_stratocruiser_s_01e20e",
+        "title": "What Happened Over Labrador in 1954?",
+        "permalink": "/boac-stratocruiser-sighting-1954/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "BOAC_stratocruiser_s_01e20e_official_investigati_21722a",
+        "title": "Investigations",
+        "permalink": "/investigations-1a4c01/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "CashLandrum_incident_7ad7d9",
+        "title": "What Happened on the Texas Road in 1980?",
+        "permalink": "/cash-landrum-incident-1980/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Charles_B_Moore_sigh_63eb1f_moore_testimony_0c88c3",
+        "title": "Witnesses",
+        "permalink": "/witnesses-ab0853/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Charles_L_Moody_abdu_780173_moody_evidence_revie_6e458f",
+        "title": "Evidence",
+        "permalink": "/evidence-57715c/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Chiles_and_Whitted_s_33732b",
+        "title": "The 1948 Flight That Challenged UFO Explanations",
+        "permalink": "/chiles-and-whitted-sighting-1948/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Cisco_Grove_incident_29820a",
+        "title": "What Happened at Cisco Grove?",
+        "permalink": "/cisco-grove-incident-1964/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Cisco_Grove_incident_29820a_blue_book_records_bab75d",
+        "title": "Blue Book",
+        "permalink": "/blue-book-28410f/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Claude_Vorilhon_cont_ec941c_raelism_origins_9c7d43",
+        "title": "The Movement",
+        "permalink": "/the-movement/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Cynthia_Appleton_enc_304111",
+        "title": "What Happened in the Aston UFO Encounter?",
+        "permalink": "/cynthia-appleton-encounter-1957/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Day_family_abduction_fe300b_day_family_witnesses_9a8cdf",
+        "title": "Witnesses",
+        "permalink": "/witnesses-e9c742/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Delphos_Ring_inciden_2952cd_witness_accounts_ffdf73",
+        "title": "Witnesses",
+        "permalink": "/witnesses-0a727c/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Desvergers_scoutmast_75261f_physical_evidence_fb21e4",
+        "title": "Physical Evidence",
+        "permalink": "/physical-evidence-c3d51c/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Farmington_sightings_46c4ec",
+        "title": "What Crossed Farmington's Skies in 1950?",
+        "permalink": "/farmington-sightings-1950/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Farmington_sightings_46c4ec_farmington_witnesses_e6dc61",
+        "title": "Witnesses",
+        "permalink": "/witnesses-35759e/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Flatwoods_incident_1_ff4486",
+        "title": "What Happened on the Flatwoods Hillside?",
+        "permalink": "/flatwoods-incident-1952/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Flatwoods_incident_1_ff4486_meteor_owl_explanati_d86fff",
+        "title": "Explanations",
+        "permalink": "/explanations-f3884d/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Fort_Itaipu_Brazil_s_89a0ba_fort_itaipu_witnesse_d7ac56",
+        "title": "Witnesses",
+        "permalink": "/witnesses-b11915/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Gary_Wilcox_encounte_6de9ff_physical_evidence_de_63c546",
+        "title": "Evidence Debate",
+        "permalink": "/evidence-debate-4fe7b7/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Gordon_Cooper_sighti_93b9f6_faith7_fireflies_6438fe",
+        "title": "Fireflies",
+        "permalink": "/fireflies/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Greenhaw_encounter_1_a4bc62",
+        "title": "The Falkville Metal Man Mystery Examined Through...",
+        "permalink": "/greenhaw-encounter-1973/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Herbert_Schirmer_abd_b149a3",
+        "title": "Herbert Schirmer's Encounter: Evidence or Enigma?",
+        "permalink": "/herbert-schirmer-abduction-1967/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Incident_at_Exeter_1_781528",
+        "title": "What Happened During the Exeter UFO Sighting?",
+        "permalink": "/incident-at-exeter-1965/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Jimmy_Carter_sightin_759215_proposed_explanation_94a4da",
+        "title": "Explanations",
+        "permalink": "/explanations-088469/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "John_Martin_sighting_4cec00_newspaper_history_475f88",
+        "title": "Historical Record",
+        "permalink": "/historical-record/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Jose_A_y_Bonilla_pho_27aa92_bonilla_photos_evide_d64f29",
+        "title": "The Photographs",
+        "permalink": "/the-photographs/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Kelly-Hopkinsville_i_de664d",
+        "title": "What Happened at Kelly Hopkinsville in 1955?",
+        "permalink": "/kelly-hopkinsville-incident-1955/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Kelly-Hopkinsville_i_de664d_kelly_witnesses_e27051",
+        "title": "Witnesses",
+        "permalink": "/witnesses-6fbfec/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Kenneth_Arnold_s_fir_b696ba_arnold_evidence_asse_70eb16",
+        "title": "Evidence",
+        "permalink": "/evidence/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Kenneth_Arnold_s_fir_b696ba_arnold_sighting_reco_baea7b",
+        "title": "The Sighting",
+        "permalink": "/the-sighting/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Kinross_incident_195_2ebd01",
+        "title": "The Interceptor That Vanished Over Lake Superior",
+        "permalink": "/kinross-incident-1953/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Lady_animal_mutilati_ea7340_animal_mutilation_le_d190ec",
+        "title": "Mutilation Legacy",
+        "permalink": "/mutilation-legacy/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Lakenheath_episode_1_bf5257",
+        "title": "What Happened Over Lakenheath in 1956?",
+        "permalink": "/lakenheath-episode-1956/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Lakenheath_episode_1_bf5257_lakenheath_debate_c24bff",
+        "title": "Explanations",
+        "permalink": "/explanations-0126e2/",
+        "inline_inbound_count": 4
+      },
+      {
+        "basename": "Larson_abduction_nea_e9683a_hypnosis_memories_1dd6ff",
+        "title": "Hypnosis",
+        "permalink": "/hypnosis/",
+        "inline_inbound_count": 4
+      }
+    ],
+    "top_related_report_targets": [],
+    "unresolved_inline_internal_targets": [],
+    "unresolved_related_report_targets": [],
+    "edge_samples": [
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Alan_Godfrey_encount_87fc0b",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Alexander_Hamilton_a_75e894",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Andreasson_abduction_e8bccf",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Antonio_Villas-Boas_1a3f4f",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Apollo_11_sightings_2c5554",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Aurora_Texas_airship_165367",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "BOAC_stratocruiser_s_01e20e",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Battle_of_Los_Angele_969c9e",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Belgium_radarvisual_58866e",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Betty_and_Barney_Hil_3bcafa",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Carl_Higdon_contact_bfd61b",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "CashLandrum_incident_7ad7d9",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Cedric_Allingham_enc_2c7f6b",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Charles_B_Moore_sigh_63eb1f",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Charles_L_Moody_abdu_780173",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Chiles_and_Whitted_s_33732b",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Cisco_Grove_incident_29820a",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Claude_Vorilhon_cont_ec941c",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Clyde_Tombaugh_sight_af62cd",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Coyne_helicopter_sig_5ce811",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Cynthia_Appleton_enc_304111",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Day_family_abduction_fe300b",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Delphos_Ring_inciden_2952cd",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Desvergers_scoutmast_75261f",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Doctor_X_UFO_encount_5e669c",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "E_J_Smith_sighting_1_b2b2e6",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Eagle_River_encounte_9b53c8",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Farmington_sightings_46c4ec",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Fatima_apparition_19_f6784f",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Flatwoods_incident_1_ff4486",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Flight_19_incident_1_5cc889",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Fort_Itaipu_Brazil_s_89a0ba",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Fred_M_Johnson_sight_b34b17",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Gary_Wilcox_encounte_6de9ff",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Gemini_4_sighting_19_9c351d",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Gemini_7_sighting_19_7caf7b",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "George_Adamski_encou_795ba9",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Gordon_Cooper_sighti_93b9f6",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Gorman_dogfight_near_aac8f7",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Great_Falls_Montana_171d9e",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Greenhaw_encounter_1_a4bc62",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Gulf_Breeze_encounte_8373f7",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Herbert_Schirmer_abd_b149a3",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Incident_at_Exeter_1_781528",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "JAL_1628_sighting_ov_aeed7e",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Jet_chase_near_Tehra_5ae5aa",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Jimmy_Carter_sightin_759215",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "John_Martin_sighting_4cec00",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Jose_A_y_Bonilla_pho_27aa92",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Kelly-Hopkinsville_i_de664d",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Kinross_incident_195_2ebd01",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Lady_animal_mutilati_ea7340",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Lakenheath_episode_1_bf5257",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Larson_abduction_nea_e9683a",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Levelland_Texas_inci_0e8348",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Linda_Cortile_abduct_1b229f",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Livingston_incident_b2c293",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Loch_Raven_Dam_incid_b0e5b6",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Lubbock_Lights_sight_4eabd8",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Magenta_Italy_crash_5ee1aa",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Maureen_Puddy_encoun_21a7f8",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Maury_Island_inciden_ec4432",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "McMinnville_photogra_4e1af3",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Middle_East_UAP_vide_4a6c55",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Muroc_Field_sighting_a700e4",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Nash_and_Fortenberry_0a9bf2",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Oloron_Angel_Hair_in_61d462",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Operation_Mainbrace_06bcd8",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Orfeo_Angelucci_enco_bef29a",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Pascagoula_abduction_80a64a",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Puerto_Rico_infrared_d310d5",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "RB-47_radarvisual_in_5bf2a6",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Red_Bluff_sighting_1_f72200",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Reinhold_Schmidt_enc_731a71",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Rendlesham_Forest_in_f98080",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Reverend_W_B_Gill_si_c31d68",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Rex_Heflin_photograp_32bdf2",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Roswell_1947_c36fe7",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Salem_Massachusetts_01ecd1",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Socorro_sighting_by_961b47",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "SpaurNeff_Ravenna_si_4977ac",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Stanford_Kentucky_ab_a91f06",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Stephen_Darbishire_p_f80223",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Steven_Michalak_enco_1bbf94",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "The_Northeast_Blacko_c3cfee",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Thomas_F_Mantell_inc_2ce7ee",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Topcliffe_incident_1_80cbf4",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Trans-en-Provence_en_439c97",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Travis_Walton_abduct_612999",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Tremonton_Utah_film_79b5ee",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Trindade_Island_phot_726a39",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Truman_Bethurum_cont_eaa44d",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Tully_saucer_nest_in_b9d0b0",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Tunguska_event_1908_efda6f",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "USS_Nimitz_Tic_Tac_v_83266a",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "USS_Russell_video_20_3188a1",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "USS_Theodore_Rooseve_a4867d",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "USS_Theodore_Rooseve_daeaff",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Ubatuba_incident_195_6ff2c6",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Ummo_photographs_196_ed7563",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Valensole_incident_1_63f5cf",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Valentich_disappeara_592d85",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Voronezh_Russia_land_e13f34",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Walesville_Incident_cbceb2",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Washington_National_ee59a4",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "WellingtonKaikoura_i_c1d17f",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Kenneth_Arnold_s_fir_b696ba_arnold_evidence_asse_70eb16",
+        "type": "child"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Kenneth_Arnold_s_fir_b696ba_arnold_sighting_reco_baea7b",
+        "type": "child"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Kenneth_Arnold_s_fir_b696ba_flying_saucer_origin_9a0e10",
+        "type": "child"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Kenneth_Arnold_s_fir_b696ba_index",
+        "type": "child"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba_arnold_evidence_asse_70eb16",
+        "to": "Kenneth_Arnold_s_fir_b696ba",
+        "type": "parent"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba_arnold_evidence_asse_70eb16",
+        "to": "Kenneth_Arnold_s_fir_b696ba_arnold_sighting_reco_baea7b",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba_arnold_evidence_asse_70eb16",
+        "to": "Kenneth_Arnold_s_fir_b696ba_flying_saucer_origin_9a0e10",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba_arnold_evidence_asse_70eb16",
+        "to": "Kenneth_Arnold_s_fir_b696ba",
+        "type": "ancestor"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba_arnold_sighting_reco_baea7b",
+        "to": "Kenneth_Arnold_s_fir_b696ba",
+        "type": "parent"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba_arnold_sighting_reco_baea7b",
+        "to": "Kenneth_Arnold_s_fir_b696ba_arnold_evidence_asse_70eb16",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba_arnold_sighting_reco_baea7b",
+        "to": "Kenneth_Arnold_s_fir_b696ba_flying_saucer_origin_9a0e10",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba_arnold_sighting_reco_baea7b",
+        "to": "Kenneth_Arnold_s_fir_b696ba",
+        "type": "ancestor"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba_flying_saucer_origin_9a0e10",
+        "to": "Kenneth_Arnold_s_fir_b696ba",
+        "type": "parent"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba_flying_saucer_origin_9a0e10",
+        "to": "Kenneth_Arnold_s_fir_b696ba_arnold_evidence_asse_70eb16",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba_flying_saucer_origin_9a0e10",
+        "to": "Kenneth_Arnold_s_fir_b696ba_arnold_sighting_reco_baea7b",
+        "type": "sibling"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba_flying_saucer_origin_9a0e10",
+        "to": "Kenneth_Arnold_s_fir_b696ba",
+        "type": "ancestor"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Alan_Godfrey_encount_87fc0b",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Alexander_Hamilton_a_75e894",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Andreasson_abduction_e8bccf",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Antonio_Villas-Boas_1a3f4f",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Apollo_11_sightings_2c5554",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Aurora_Texas_airship_165367",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "BOAC_stratocruiser_s_01e20e",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Battle_of_Los_Angele_969c9e",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Belgium_radarvisual_58866e",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Carl_Higdon_contact_bfd61b",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "CashLandrum_incident_7ad7d9",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Cedric_Allingham_enc_2c7f6b",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Charles_B_Moore_sigh_63eb1f",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Charles_L_Moody_abdu_780173",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Chiles_and_Whitted_s_33732b",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Cisco_Grove_incident_29820a",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Claude_Vorilhon_cont_ec941c",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Clyde_Tombaugh_sight_af62cd",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Coyne_helicopter_sig_5ce811",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Cynthia_Appleton_enc_304111",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Day_family_abduction_fe300b",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Delphos_Ring_inciden_2952cd",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Desvergers_scoutmast_75261f",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Doctor_X_UFO_encount_5e669c",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "E_J_Smith_sighting_1_b2b2e6",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Eagle_River_encounte_9b53c8",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Farmington_sightings_46c4ec",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Fatima_apparition_19_f6784f",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Flatwoods_incident_1_ff4486",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Flight_19_incident_1_5cc889",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Fort_Itaipu_Brazil_s_89a0ba",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Fred_M_Johnson_sight_b34b17",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Gary_Wilcox_encounte_6de9ff",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Gemini_4_sighting_19_9c351d",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Gemini_7_sighting_19_7caf7b",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "George_Adamski_encou_795ba9",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Gordon_Cooper_sighti_93b9f6",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Gorman_dogfight_near_aac8f7",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Great_Falls_Montana_171d9e",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Greenhaw_encounter_1_a4bc62",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Gulf_Breeze_encounte_8373f7",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Herbert_Schirmer_abd_b149a3",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Incident_at_Exeter_1_781528",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "JAL_1628_sighting_ov_aeed7e",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Jet_chase_near_Tehra_5ae5aa",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Jimmy_Carter_sightin_759215",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "John_Martin_sighting_4cec00",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Jose_A_y_Bonilla_pho_27aa92",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Kelly-Hopkinsville_i_de664d",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Kenneth_Arnold_s_fir_b696ba",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Kinross_incident_195_2ebd01",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Lady_animal_mutilati_ea7340",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Lakenheath_episode_1_bf5257",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Larson_abduction_nea_e9683a",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Levelland_Texas_inci_0e8348",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Linda_Cortile_abduct_1b229f",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Livingston_incident_b2c293",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Loch_Raven_Dam_incid_b0e5b6",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Lubbock_Lights_sight_4eabd8",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Magenta_Italy_crash_5ee1aa",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Maureen_Puddy_encoun_21a7f8",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Maury_Island_inciden_ec4432",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "McMinnville_photogra_4e1af3",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Middle_East_UAP_vide_4a6c55",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Muroc_Field_sighting_a700e4",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Nash_and_Fortenberry_0a9bf2",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Oloron_Angel_Hair_in_61d462",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Operation_Mainbrace_06bcd8",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Orfeo_Angelucci_enco_bef29a",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Pascagoula_abduction_80a64a",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Puerto_Rico_infrared_d310d5",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "RB-47_radarvisual_in_5bf2a6",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Red_Bluff_sighting_1_f72200",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Reinhold_Schmidt_enc_731a71",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Rendlesham_Forest_in_f98080",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Reverend_W_B_Gill_si_c31d68",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Rex_Heflin_photograp_32bdf2",
+        "type": "sibling"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Roswell_1947_c36fe7",
+        "type": "sibling"
+      }
+    ],
+    "inline_edge_samples": [
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Kenneth_Arnold_s_fir_b696ba_arnold_evidence_asse_70eb16",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Kenneth_Arnold_s_fir_b696ba_flying_saucer_origin_9a0e10",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba",
+        "to": "Kenneth_Arnold_s_fir_b696ba_arnold_sighting_reco_baea7b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba_arnold_evidence_asse_70eb16",
+        "to": "Kenneth_Arnold_s_fir_b696ba_arnold_sighting_reco_baea7b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba_arnold_sighting_reco_baea7b",
+        "to": "Kenneth_Arnold_s_fir_b696ba_arnold_evidence_asse_70eb16",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba_arnold_sighting_reco_baea7b",
+        "to": "Kenneth_Arnold_s_fir_b696ba_flying_saucer_origin_9a0e10",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba_flying_saucer_origin_9a0e10",
+        "to": "Kenneth_Arnold_s_fir_b696ba_arnold_sighting_reco_baea7b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Kenneth_Arnold_s_fir_b696ba_flying_saucer_origin_9a0e10",
+        "to": "Kenneth_Arnold_s_fir_b696ba_arnold_evidence_asse_70eb16",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa",
+        "to": "Betty_and_Barney_Hil_3bcafa_white_mountains_time_c83d8b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa_hypnosis_and_memory_c88449",
+        "to": "Betty_and_Barney_Hil_3bcafa_white_mountains_time_c83d8b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Betty_and_Barney_Hil_3bcafa_early_reports_and_fi_0d1c50",
+        "to": "Betty_and_Barney_Hil_3bcafa_white_mountains_time_c83d8b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "George_Adamski_encou_795ba9",
+        "to": "George_Adamski_encou_795ba9_desert_center_timeli_e5342c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "George_Adamski_encou_795ba9",
+        "to": "George_Adamski_encou_795ba9_witness_corroboratio_0c01a0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "George_Adamski_encou_795ba9_desert_center_timeli_e5342c",
+        "to": "George_Adamski_encou_795ba9_witness_corroboratio_0c01a0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Roswell_1947_c36fe7",
+        "to": "Roswell_1947_c36fe7_project_mogul_explan_2128c2",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Roswell_1947_c36fe7_project_mogul_explan_2128c2",
+        "to": "Roswell_1947_c36fe7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Roswell_1947_c36fe7_roswell_1947_timelin_df672a",
+        "to": "Roswell_1947_c36fe7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Roswell_1947_c36fe7_roswell_1947_timelin_df672a",
+        "to": "Roswell_1947_c36fe7_project_mogul_explan_2128c2",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Roswell_1947_c36fe7_roswell_witness_cred_b545a4",
+        "to": "Roswell_1947_c36fe7",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Roswell_1947_c36fe7_roswell_witness_cred_b545a4",
+        "to": "Roswell_1947_c36fe7_project_mogul_explan_2128c2",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Socorro_sighting_by_961b47",
+        "to": "Socorro_sighting_by_961b47_socorro_competing_ex_2ffb1f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Socorro_sighting_by_961b47",
+        "to": "Socorro_sighting_by_961b47_socorro_ground_trace_8b3773",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Socorro_sighting_by_961b47_socorro_competing_ex_2ffb1f",
+        "to": "Socorro_sighting_by_961b47",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Socorro_sighting_by_961b47_socorro_ground_trace_8b3773",
+        "to": "Socorro_sighting_by_961b47_socorro_competing_ex_2ffb1f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Socorro_sighting_by_961b47_zamora_account_timel_95a65e",
+        "to": "Socorro_sighting_by_961b47_socorro_competing_ex_2ffb1f",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Thomas_F_Mantell_inc_2ce7ee_witness_record_0ca038",
+        "to": "Thomas_F_Mantell_inc_2ce7ee_venus_skyhook_explan_e67031",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Travis_Walton_abduct_612999_crew_witnesses_0d22c3",
+        "to": "Travis_Walton_abduct_612999_walton_timeline_73e18c",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_in_f98080_halt_records_494289",
+        "to": "Rendlesham_Forest_in_f98080",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_in_f98080_halt_records_494289",
+        "to": "Rendlesham_Forest_in_f98080_witness_accounts_ffdf73",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_in_f98080_witness_accounts_ffdf73",
+        "to": "Rendlesham_Forest_in_f98080",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_in_f98080_case_explanations_863f67",
+        "to": "Rendlesham_Forest_in_f98080",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Rendlesham_Forest_in_f98080_case_explanations_863f67",
+        "to": "Rendlesham_Forest_in_f98080_witness_accounts_ffdf73",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Coyne_helicopter_sig_5ce811",
+        "to": "Coyne_helicopter_sig_5ce811_alternative_explanat_ee4fa0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Coyne_helicopter_sig_5ce811_official_records_9b05ad",
+        "to": "Coyne_helicopter_sig_5ce811_crew_testimony_e64831",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Coyne_helicopter_sig_5ce811_alternative_explanat_ee4fa0",
+        "to": "Coyne_helicopter_sig_5ce811_crew_testimony_e64831",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Gorman_dogfight_near_aac8f7",
+        "to": "Gorman_dogfight_near_aac8f7_project_sign_records_e774d3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Truman_Bethurum_cont_eaa44d",
+        "to": "Truman_Bethurum_cont_eaa44d_aura_rhanes_claims_de7c33",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Truman_Bethurum_cont_eaa44d_fbi_official_records_7c4f74",
+        "to": "Truman_Bethurum_cont_eaa44d_aura_rhanes_claims_de7c33",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Truman_Bethurum_cont_eaa44d_testimony_evidence_g_469243",
+        "to": "Truman_Bethurum_cont_eaa44d_aura_rhanes_claims_de7c33",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Flight_19_incident_1_5cc889",
+        "to": "Flight_19_incident_1_5cc889_navy_investigation_02643e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Flight_19_incident_1_5cc889",
+        "to": "Flight_19_incident_1_5cc889_bermuda_triangle_leg_df4835",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Flight_19_incident_1_5cc889_bermuda_triangle_leg_df4835",
+        "to": "Flight_19_incident_1_5cc889_navy_investigation_02643e",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Aurora_Texas_airship_165367_witness_legend_3fa874",
+        "to": "Aurora_Texas_airship_165367_1897_report_1cfc26",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Aurora_Texas_airship_165367_hoax_explanations_022016",
+        "to": "Aurora_Texas_airship_165367_1897_report_1cfc26",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Linda_Cortile_abduct_1b229f",
+        "to": "Linda_Cortile_abduct_1b229f_hopkins_investigatio_6b249a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Linda_Cortile_abduct_1b229f",
+        "to": "Linda_Cortile_abduct_1b229f_witness_accounts_ffdf73",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Linda_Cortile_abduct_1b229f_evidence_debate_6278b8",
+        "to": "Linda_Cortile_abduct_1b229f_witness_accounts_ffdf73",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Linda_Cortile_abduct_1b229f_evidence_debate_6278b8",
+        "to": "Linda_Cortile_abduct_1b229f_hopkins_investigatio_6b249a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Linda_Cortile_abduct_1b229f_witness_accounts_ffdf73",
+        "to": "Linda_Cortile_abduct_1b229f_hopkins_investigatio_6b249a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Linda_Cortile_abduct_1b229f_hopkins_investigatio_6b249a",
+        "to": "Linda_Cortile_abduct_1b229f_witness_accounts_ffdf73",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Delphos_Ring_inciden_2952cd",
+        "to": "Delphos_Ring_inciden_2952cd_natural_explanations_f1b4c3",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Delphos_Ring_inciden_2952cd",
+        "to": "Delphos_Ring_inciden_2952cd_witness_accounts_ffdf73",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Delphos_Ring_inciden_2952cd_soil_trace_findings_4e763a",
+        "to": "Delphos_Ring_inciden_2952cd_witness_accounts_ffdf73",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Delphos_Ring_inciden_2952cd_natural_explanations_f1b4c3",
+        "to": "Delphos_Ring_inciden_2952cd_soil_trace_findings_4e763a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Delphos_Ring_inciden_2952cd_natural_explanations_f1b4c3",
+        "to": "Delphos_Ring_inciden_2952cd_witness_accounts_ffdf73",
+        "type": "inline_internal"
+      },
+      {
+        "from": "RB-47_radarvisual_in_5bf2a6_radar_ecm_evidence_0b2f22",
+        "to": "RB-47_radarvisual_in_5bf2a6_crew_testimony_e64831",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Fred_M_Johnson_sight_b34b17_compass_claim_cf9c34",
+        "to": "Fred_M_Johnson_sight_b34b17_military_response_0abb0a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Muroc_Field_sighting_a700e4",
+        "to": "Muroc_Field_sighting_a700e4_muroc_investigation_3358bc",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Muroc_Field_sighting_a700e4",
+        "to": "Muroc_Field_sighting_a700e4_muroc_explanations_1e67ac",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Muroc_Field_sighting_a700e4_muroc_witnesses_800a56",
+        "to": "Muroc_Field_sighting_a700e4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Muroc_Field_sighting_a700e4_muroc_witnesses_800a56",
+        "to": "Muroc_Field_sighting_a700e4_muroc_explanations_1e67ac",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Muroc_Field_sighting_a700e4_muroc_explanations_1e67ac",
+        "to": "Muroc_Field_sighting_a700e4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Muroc_Field_sighting_a700e4_muroc_explanations_1e67ac",
+        "to": "Muroc_Field_sighting_a700e4_muroc_witnesses_800a56",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Muroc_Field_sighting_a700e4_muroc_explanations_1e67ac",
+        "to": "Muroc_Field_sighting_a700e4_muroc_investigation_3358bc",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Muroc_Field_sighting_a700e4_muroc_investigation_3358bc",
+        "to": "Muroc_Field_sighting_a700e4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Muroc_Field_sighting_a700e4_muroc_investigation_3358bc",
+        "to": "Muroc_Field_sighting_a700e4_muroc_witnesses_800a56",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Muroc_Field_sighting_a700e4_muroc_investigation_3358bc",
+        "to": "Muroc_Field_sighting_a700e4_muroc_explanations_1e67ac",
+        "type": "inline_internal"
+      },
+      {
+        "from": "SpaurNeff_Ravenna_si_4977ac",
+        "to": "SpaurNeff_Ravenna_si_4977ac_physical_evidence_ga_4e2226",
+        "type": "inline_internal"
+      },
+      {
+        "from": "SpaurNeff_Ravenna_si_4977ac_blue_book_explanatio_ee50e7",
+        "to": "SpaurNeff_Ravenna_si_4977ac",
+        "type": "inline_internal"
+      },
+      {
+        "from": "SpaurNeff_Ravenna_si_4977ac_blue_book_explanatio_ee50e7",
+        "to": "SpaurNeff_Ravenna_si_4977ac_physical_evidence_ga_4e2226",
+        "type": "inline_internal"
+      },
+      {
+        "from": "SpaurNeff_Ravenna_si_4977ac_physical_evidence_ga_4e2226",
+        "to": "SpaurNeff_Ravenna_si_4977ac",
+        "type": "inline_internal"
+      },
+      {
+        "from": "SpaurNeff_Ravenna_si_4977ac_police_chase_timelin_ec9390",
+        "to": "SpaurNeff_Ravenna_si_4977ac",
+        "type": "inline_internal"
+      },
+      {
+        "from": "SpaurNeff_Ravenna_si_4977ac_police_chase_timelin_ec9390",
+        "to": "SpaurNeff_Ravenna_si_4977ac_physical_evidence_ga_4e2226",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Maureen_Puddy_encoun_21a7f8",
+        "to": "Maureen_Puddy_encoun_21a7f8_witness_accounts_ffdf73",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Maureen_Puddy_encoun_21a7f8_evidence_debate_6278b8",
+        "to": "Maureen_Puddy_encoun_21a7f8_abduction_interpreta_b7f924",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Maureen_Puddy_encoun_21a7f8_evidence_debate_6278b8",
+        "to": "Maureen_Puddy_encoun_21a7f8_witness_accounts_ffdf73",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Maureen_Puddy_encoun_21a7f8_witness_accounts_ffdf73",
+        "to": "Maureen_Puddy_encoun_21a7f8_abduction_interpreta_b7f924",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Maureen_Puddy_encoun_21a7f8_abduction_interpreta_b7f924",
+        "to": "Maureen_Puddy_encoun_21a7f8_witness_accounts_ffdf73",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Cisco_Grove_incident_29820a",
+        "to": "Cisco_Grove_incident_29820a_blue_book_records_bab75d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Cisco_Grove_incident_29820a_evidence_debate_6278b8",
+        "to": "Cisco_Grove_incident_29820a_blue_book_records_bab75d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Cisco_Grove_incident_29820a_evidence_debate_6278b8",
+        "to": "Cisco_Grove_incident_29820a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Cisco_Grove_incident_29820a_evidence_debate_6278b8",
+        "to": "Cisco_Grove_incident_29820a_shrum_testimony_a1eaf8",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Cisco_Grove_incident_29820a_shrum_testimony_a1eaf8",
+        "to": "Cisco_Grove_incident_29820a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Cisco_Grove_incident_29820a_shrum_testimony_a1eaf8",
+        "to": "Cisco_Grove_incident_29820a_blue_book_records_bab75d",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Cisco_Grove_incident_29820a_blue_book_records_bab75d",
+        "to": "Cisco_Grove_incident_29820a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Cisco_Grove_incident_29820a_blue_book_records_bab75d",
+        "to": "Cisco_Grove_incident_29820a_shrum_testimony_a1eaf8",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Topcliffe_incident_1_80cbf4",
+        "to": "Topcliffe_incident_1_80cbf4_raf_archives_062953",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Topcliffe_incident_1_80cbf4",
+        "to": "Topcliffe_incident_1_80cbf4_mainbrace_encounter_6bbd37",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Topcliffe_incident_1_80cbf4",
+        "to": "Topcliffe_incident_1_80cbf4_raf_witnesses_aa0dd5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Topcliffe_incident_1_80cbf4_raf_archives_062953",
+        "to": "Topcliffe_incident_1_80cbf4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Topcliffe_incident_1_80cbf4_raf_archives_062953",
+        "to": "Topcliffe_incident_1_80cbf4_raf_witnesses_aa0dd5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Topcliffe_incident_1_80cbf4_raf_witnesses_aa0dd5",
+        "to": "Topcliffe_incident_1_80cbf4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Topcliffe_incident_1_80cbf4_raf_witnesses_aa0dd5",
+        "to": "Topcliffe_incident_1_80cbf4_raf_archives_062953",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Topcliffe_incident_1_80cbf4_mainbrace_encounter_6bbd37",
+        "to": "Topcliffe_incident_1_80cbf4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Topcliffe_incident_1_80cbf4_mainbrace_encounter_6bbd37",
+        "to": "Topcliffe_incident_1_80cbf4_raf_witnesses_aa0dd5",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Gemini_7_sighting_19_7caf7b_orbital_debris_d50e8a",
+        "to": "Gemini_7_sighting_19_7caf7b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Gemini_7_sighting_19_7caf7b_astronaut_testimony_3f47a4",
+        "to": "Gemini_7_sighting_19_7caf7b",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Gemini_7_sighting_19_7caf7b_astronaut_testimony_3f47a4",
+        "to": "Gemini_7_sighting_19_7caf7b_orbital_debris_d50e8a",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Voronezh_Russia_land_e13f34",
+        "to": "Voronezh_Russia_land_e13f34_physical_evidence_fb21e4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Voronezh_Russia_land_e13f34",
+        "to": "Voronezh_Russia_land_e13f34_voronezh_witnesses_5bee06",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Voronezh_Russia_land_e13f34_physical_evidence_fb21e4",
+        "to": "Voronezh_Russia_land_e13f34_voronezh_witnesses_5bee06",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Voronezh_Russia_land_e13f34_voronezh_witnesses_5bee06",
+        "to": "Voronezh_Russia_land_e13f34_physical_evidence_fb21e4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Voronezh_Russia_land_e13f34_tass_glassnost_media_3b7815",
+        "to": "Voronezh_Russia_land_e13f34_physical_evidence_fb21e4",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Voronezh_Russia_land_e13f34_tass_glassnost_media_3b7815",
+        "to": "Voronezh_Russia_land_e13f34_voronezh_witnesses_5bee06",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Cynthia_Appleton_enc_304111",
+        "to": "Cynthia_Appleton_enc_304111_witness_testimony_0307ed",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Cynthia_Appleton_enc_304111_aston_timeline_8ca051",
+        "to": "Cynthia_Appleton_enc_304111",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Cynthia_Appleton_enc_304111_witness_testimony_0307ed",
+        "to": "Cynthia_Appleton_enc_304111",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Cynthia_Appleton_enc_304111_evidence_verificatio_6eeee1",
+        "to": "Cynthia_Appleton_enc_304111",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Cynthia_Appleton_enc_304111_evidence_verificatio_6eeee1",
+        "to": "Cynthia_Appleton_enc_304111_witness_testimony_0307ed",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Claude_Vorilhon_cont_ec941c",
+        "to": "Claude_Vorilhon_cont_ec941c_raelism_origins_9c7d43",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Claude_Vorilhon_cont_ec941c_contact_evidence_aad893",
+        "to": "Claude_Vorilhon_cont_ec941c_raelism_origins_9c7d43",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Claude_Vorilhon_cont_ec941c_vorilhon_testimony_8edbb8",
+        "to": "Claude_Vorilhon_cont_ec941c_raelism_origins_9c7d43",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Livingston_incident_b2c293_evidence_trail_90b83e",
+        "to": "Livingston_incident_b2c293",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Livingston_incident_b2c293_taylor_account_4ed7c5",
+        "to": "Livingston_incident_b2c293",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Livingston_incident_b2c293_taylor_account_4ed7c5",
+        "to": "Livingston_incident_b2c293_explanation_debate_f786f0",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Livingston_incident_b2c293_explanation_debate_f786f0",
+        "to": "Livingston_incident_b2c293",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Jose_A_y_Bonilla_pho_27aa92",
+        "to": "Jose_A_y_Bonilla_pho_27aa92_bonilla_photos_evide_d64f29",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Jose_A_y_Bonilla_pho_27aa92_atmospheric_explanat_76edd6",
+        "to": "Jose_A_y_Bonilla_pho_27aa92_bonilla_photos_evide_d64f29",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Jose_A_y_Bonilla_pho_27aa92_comet_fragment_hypot_e74e8f",
+        "to": "Jose_A_y_Bonilla_pho_27aa92_bonilla_photos_evide_d64f29",
+        "type": "inline_internal"
+      },
+      {
+        "from": "Ummo_photographs_196_ed7563",
+        "to": "Ummo_photographs_196_ed7563_valderas_sighting_dadbe3",
+        "type": "inline_internal"
+      }
+    ],
+    "related_report_edge_samples": []
+  }
+}
