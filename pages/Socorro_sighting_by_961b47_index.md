@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /socorro-sighting-by-961b47-index/
 description: Focused pages that expand on Socorro sighting by Lonnie Zamora 1964.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Socorro_sighting_by_961b47
 parent_title: Socorro sighting by Lonnie Zamora 1964

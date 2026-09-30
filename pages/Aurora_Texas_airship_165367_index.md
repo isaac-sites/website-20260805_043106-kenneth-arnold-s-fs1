@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /aurora-texas-airship-165367-index/
 description: Focused pages that expand on Aurora Texas airship crash 1897.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Aurora_Texas_airship_165367
 parent_title: Aurora Texas airship crash 1897

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /flight-19-incident-1-5cc889-index/
 description: Focused pages that expand on Flight 19 incident 1945.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Flight_19_incident_1_5cc889
 parent_title: Flight 19 incident 1945

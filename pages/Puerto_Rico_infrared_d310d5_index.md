@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /puerto-rico-infrared-d310d5-index/
 description: Focused pages that expand on Puerto Rico infrared video 2013.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Puerto_Rico_infrared_d310d5
 parent_title: Puerto Rico infrared video 2013

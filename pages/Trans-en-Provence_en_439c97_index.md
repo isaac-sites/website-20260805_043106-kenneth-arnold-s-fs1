@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /trans-en-provence-en-439c97-index/
 description: Focused pages that expand on Trans en Provence encounter 1981.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Trans-en-Provence_en_439c97
 parent_title: Trans en Provence encounter 1981

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /john-martin-sighting-4cec00-index/
 description: Focused pages that expand on John Martin sighting 1878.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: John_Martin_sighting_4cec00
 parent_title: John Martin sighting 1878

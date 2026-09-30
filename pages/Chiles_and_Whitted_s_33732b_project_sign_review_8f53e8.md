@@ -220,6 +220,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-04 04:44:00'
+last_modified_at: '2026-08-04 04:44:00'
 parent_title: Chiles Whitted
 parent_permalink: /chiles-and-whitted-sighting-1948/
 parent_nav_short_title: Chiles Whitted

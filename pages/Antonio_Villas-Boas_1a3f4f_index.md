@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /antonio-villas-boas-1a3f4f-index/
 description: Focused pages that expand on Antonio Villas Boas abduction 1957.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Antonio_Villas-Boas_1a3f4f
 parent_title: Antonio Villas Boas abduction 1957

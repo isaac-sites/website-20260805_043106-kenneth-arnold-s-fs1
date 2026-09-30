@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /orfeo-angelucci-enco-bef29a-index/
 description: Focused pages that expand on Orfeo Angelucci encounter 1955.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Orfeo_Angelucci_enco_bef29a
 parent_title: Orfeo Angelucci encounter 1955

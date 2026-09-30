@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /magenta-italy-crash-5ee1aa-index/
 description: Focused pages that expand on Magenta Italy crash 1933.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Magenta_Italy_crash_5ee1aa
 parent_title: Magenta Italy crash 1933

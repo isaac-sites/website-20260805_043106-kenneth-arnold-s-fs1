@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /cashlandrum-incident-7ad7d9-index/
 description: Focused pages that expand on Cash Landrum incident 1980.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: CashLandrum_incident_7ad7d9
 parent_title: Cash Landrum incident 1980

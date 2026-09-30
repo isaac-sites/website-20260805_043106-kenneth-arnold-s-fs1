@@ -220,6 +220,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-04 08:34:52'
+last_modified_at: '2026-08-04 08:34:52'
 parent_title: Carter UFO Case
 parent_permalink: /jimmy-carter-sighting-1969/
 parent_nav_short_title: Carter UFO Case

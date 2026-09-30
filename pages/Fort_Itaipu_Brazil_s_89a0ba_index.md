@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /fort-itaipu-brazil-s-89a0ba-index/
 description: Focused pages that expand on Fort Itaipu Brazil sighting 1957.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Fort_Itaipu_Brazil_s_89a0ba
 parent_title: Fort Itaipu Brazil sighting 1957

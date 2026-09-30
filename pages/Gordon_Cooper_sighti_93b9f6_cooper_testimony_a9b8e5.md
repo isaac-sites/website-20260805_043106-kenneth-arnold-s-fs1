@@ -220,6 +220,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-04 18:02:16'
+last_modified_at: '2026-08-04 18:02:16'
 parent_title: Cooper Sightings
 parent_permalink: /gordon-cooper-sightings-1963/
 parent_nav_short_title: Cooper Sightings

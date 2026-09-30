@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /uss-theodore-rooseve-daeaff-index/
 description: Focused pages that expand on USS Theodore Roosevelt Go Fast video 2015.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: USS_Theodore_Rooseve_daeaff
 parent_title: USS Theodore Roosevelt Go Fast video 2015

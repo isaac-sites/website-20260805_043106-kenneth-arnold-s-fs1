@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /alan-godfrey-encount-87fc0b-index/
 description: Focused pages that expand on Alan Godfrey encounter 1980.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Alan_Godfrey_encount_87fc0b
 parent_title: Alan Godfrey encounter 1980

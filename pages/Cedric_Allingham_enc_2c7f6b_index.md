@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /cedric-allingham-enc-2c7f6b-index/
 description: Focused pages that expand on Cedric Allingham encounter 1954.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Cedric_Allingham_enc_2c7f6b
 parent_title: Cedric Allingham encounter 1954
