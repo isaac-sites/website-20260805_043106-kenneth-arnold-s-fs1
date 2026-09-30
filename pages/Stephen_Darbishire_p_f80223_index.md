@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /stephen-darbishire-p-f80223-index/
 description: Focused pages that expand on Stephen Darbishire photograph 1954.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Stephen_Darbishire_p_f80223
 parent_title: Stephen Darbishire photograph 1954

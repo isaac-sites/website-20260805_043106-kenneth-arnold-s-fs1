@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /trindade-island-phot-726a39-index/
 description: Focused pages that expand on Trindade Island photographs 1958.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Trindade_Island_phot_726a39
 parent_title: Trindade Island photographs 1958

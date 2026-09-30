@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /reverend-w-b-gill-si-c31d68-index/
 description: Focused pages that expand on Reverend W B Gill sightings 1959.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Reverend_W_B_Gill_si_c31d68
 parent_title: Reverend W B Gill sightings 1959

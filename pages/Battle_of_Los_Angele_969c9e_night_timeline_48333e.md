@@ -220,6 +220,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-04 21:41:48'
+last_modified_at: '2026-08-04 21:41:48'
 parent_title: Battle of Los Angeles
 parent_permalink: /battle-of-los-angeles-1942/
 parent_nav_short_title: Battle of Los Angeles

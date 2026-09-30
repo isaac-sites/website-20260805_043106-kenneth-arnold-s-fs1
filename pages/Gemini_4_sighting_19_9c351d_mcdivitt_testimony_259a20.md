@@ -220,6 +220,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-04 07:42:31'
+last_modified_at: '2026-08-04 07:42:31'
 parent_title: Gemini IV Mystery
 parent_permalink: /gemini-4-sighting-1965/
 parent_nav_short_title: Gemini IV Mystery

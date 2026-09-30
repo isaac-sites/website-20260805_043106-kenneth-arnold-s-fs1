@@ -220,6 +220,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-04 19:24:53'
+last_modified_at: '2026-08-04 19:24:53'
 parent_title: Vorilhon Contact
 parent_permalink: /claude-vorilhon-contact-1973/
 parent_nav_short_title: Vorilhon Contact

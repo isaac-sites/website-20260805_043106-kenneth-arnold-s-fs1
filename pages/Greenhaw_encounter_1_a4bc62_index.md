@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /greenhaw-encounter-1-a4bc62-index/
 description: Focused pages that expand on Greenhaw encounter 1973.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Greenhaw_encounter_1_a4bc62
 parent_title: Greenhaw encounter 1973

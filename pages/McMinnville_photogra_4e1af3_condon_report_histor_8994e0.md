@@ -220,6 +220,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-04 06:10:26'
+last_modified_at: '2026-08-04 06:10:26'
 parent_title: Mc Minnville Photos
 parent_permalink: /mc-minnville-photographs-1950/
 parent_nav_short_title: Mc Minnville Photos

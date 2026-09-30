@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /gary-wilcox-encounte-6de9ff-index/
 description: Focused pages that expand on Gary Wilcox encounter 1964.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Gary_Wilcox_encounte_6de9ff
 parent_title: Gary Wilcox encounter 1964

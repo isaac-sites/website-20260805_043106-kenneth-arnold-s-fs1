@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ubatuba-incident-195-6ff2c6-index/
 description: Focused pages that expand on Ubatuba incident 1957.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Ubatuba_incident_195_6ff2c6
 parent_title: Ubatuba incident 1957

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /alexander-hamilton-a-75e894-index/
 description: Focused pages that expand on Alexander Hamilton airship 1897.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Alexander_Hamilton_a_75e894
 parent_title: Alexander Hamilton airship 1897

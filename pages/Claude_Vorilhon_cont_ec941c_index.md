@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /claude-vorilhon-cont-ec941c-index/
 description: Focused pages that expand on Claude Vorilhon contact 1973.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Claude_Vorilhon_cont_ec941c
 parent_title: Claude Vorilhon contact 1973

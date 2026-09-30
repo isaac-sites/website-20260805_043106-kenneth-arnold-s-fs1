@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /rendlesham-forest-in-f98080-index/
 description: Focused pages that expand on Rendlesham Forest incident 1980.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Rendlesham_Forest_in_f98080
 parent_title: Rendlesham Forest incident 1980

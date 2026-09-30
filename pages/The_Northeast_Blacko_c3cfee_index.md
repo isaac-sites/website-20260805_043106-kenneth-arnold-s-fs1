@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /the-northeast-blacko-c3cfee-index/
 description: Focused pages that expand on The Northeast Blackout 1965.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: The_Northeast_Blacko_c3cfee
 parent_title: The Northeast Blackout 1965

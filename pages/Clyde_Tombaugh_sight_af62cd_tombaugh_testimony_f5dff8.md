@@ -220,6 +220,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-04 10:29:51'
+last_modified_at: '2026-08-04 10:29:51'
 parent_title: Tombaugh Sighting
 parent_permalink: /clyde-tombaugh-sighting-1949/
 parent_nav_short_title: Tombaugh Sighting

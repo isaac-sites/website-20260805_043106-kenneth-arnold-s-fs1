@@ -220,6 +220,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-04 21:21:28'
+last_modified_at: '2026-08-04 21:21:28'
 parent_title: Red Bluff Files
 parent_permalink: /red-bluff-sighting-1960/
 parent_nav_short_title: Red Bluff Files

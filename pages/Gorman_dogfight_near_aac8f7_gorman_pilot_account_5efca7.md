@@ -220,6 +220,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-04 08:45:24'
+last_modified_at: '2026-08-04 08:45:24'
 parent_title: Gorman Dogfight
 parent_permalink: /gorman-dogfight-near-fargo-1948/
 parent_nav_short_title: Gorman Dogfight

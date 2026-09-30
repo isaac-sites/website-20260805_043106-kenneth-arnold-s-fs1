@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /jimmy-carter-sightin-759215-index/
 description: Focused pages that expand on Jimmy Carter sighting 1969.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Jimmy_Carter_sightin_759215
 parent_title: Jimmy Carter sighting 1969

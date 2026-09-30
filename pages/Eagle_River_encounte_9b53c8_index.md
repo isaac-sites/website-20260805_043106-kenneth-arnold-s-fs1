@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /eagle-river-encounte-9b53c8-index/
 description: Focused pages that expand on Eagle River encounter 1961.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Eagle_River_encounte_9b53c8
 parent_title: Eagle River encounter 1961

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /kelly-hopkinsville-i-de664d-index/
 description: Focused pages that expand on Kelly Hopkinsville incident 1955.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Kelly-Hopkinsville_i_de664d
 parent_title: Kelly Hopkinsville incident 1955
