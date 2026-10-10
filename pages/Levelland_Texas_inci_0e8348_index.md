@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /levelland-texas-inci-0e8348-index/
 description: Focused pages that expand on Levelland Texas incident 1957.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Levelland_Texas_inci_0e8348
 parent_title: Levelland Texas incident 1957

@@ -220,6 +220,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-04 07:38:21'
+last_modified_at: '2026-08-04 07:38:21'
 parent_title: Trindade Files
 parent_permalink: /trindade-island-photographs-1958/
 parent_nav_short_title: Trindade Files

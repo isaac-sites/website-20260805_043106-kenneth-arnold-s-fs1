@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /chiles-and-whitted-s-33732b-index/
 description: Focused pages that expand on Chiles and Whitted sighting 1948.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Chiles_and_Whitted_s_33732b
 parent_title: Chiles and Whitted sighting 1948

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /travis-walton-abduct-612999-index/
 description: Focused pages that expand on Travis Walton abduction 1975.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Travis_Walton_abduct_612999
 parent_title: Travis Walton abduction 1975

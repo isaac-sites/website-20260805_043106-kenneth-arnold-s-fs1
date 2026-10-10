@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /belgium-radarvisual-58866e-index/
 description: Focused pages that expand on Belgium radarvisual sightings 1989.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Belgium_radarvisual_58866e
 parent_title: Belgium radarvisual sightings 1989

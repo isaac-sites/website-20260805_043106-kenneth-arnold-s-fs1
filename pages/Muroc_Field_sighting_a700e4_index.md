@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /muroc-field-sighting-a700e4-index/
 description: Focused pages that expand on Muroc Field sightings 1947.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Muroc_Field_sighting_a700e4
 parent_title: Muroc Field sightings 1947

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /betty-and-barney-hil-3bcafa-index/
 description: Focused pages that expand on Betty and Barney Hill abduction 1961.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Betty_and_Barney_Hil_3bcafa
 parent_title: Betty and Barney Hill abduction 1961

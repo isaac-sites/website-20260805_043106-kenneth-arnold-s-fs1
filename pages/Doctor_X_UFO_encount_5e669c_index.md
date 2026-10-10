@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /doctor-x-ufo-encount-5e669c-index/
 description: Focused pages that expand on Doctor X UFO encounter 1968.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Doctor_X_UFO_encount_5e669c
 parent_title: Doctor X UFO encounter 1968

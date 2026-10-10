@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /oloron-angel-hair-in-61d462-index/
 description: Focused pages that expand on Oloron Angel Hair incident 1952.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Oloron_Angel_Hair_in_61d462
 parent_title: Oloron Angel Hair incident 1952

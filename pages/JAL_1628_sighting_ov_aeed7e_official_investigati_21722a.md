@@ -220,6 +220,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-04 20:31:20'
+last_modified_at: '2026-08-04 20:31:20'
 parent_title: JAL 1628
 parent_permalink: /jal-1628-sighting-over-alaska-1986/
 parent_nav_short_title: JAL 1628

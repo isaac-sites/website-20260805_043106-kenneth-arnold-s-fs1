@@ -220,6 +220,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-04 20:14:25'
+last_modified_at: '2026-08-04 20:14:25'
 parent_title: Ummo Photographs
 parent_permalink: /ummo-photographs-1967/
 parent_nav_short_title: Ummo Photographs

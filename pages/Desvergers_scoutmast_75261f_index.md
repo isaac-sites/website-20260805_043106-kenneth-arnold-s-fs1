@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /desvergers-scoutmast-75261f-index/
 description: Focused pages that expand on Desvergers scoutmaster sighting 1952.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Desvergers_scoutmast_75261f
 parent_title: Desvergers scoutmaster sighting 1952

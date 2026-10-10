@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /e-j-smith-sighting-1-b2b2e6-index/
 description: Focused pages that expand on E J Smith sighting 1947.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: E_J_Smith_sighting_1_b2b2e6
 parent_title: E J Smith sighting 1947

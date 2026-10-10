@@ -220,6 +220,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-04 13:01:05'
+last_modified_at: '2026-08-04 13:01:05'
 parent_title: Apollo 11 Sightings
 parent_permalink: /apollo-11-sightings-1969/
 parent_nav_short_title: Apollo 11 Sightings

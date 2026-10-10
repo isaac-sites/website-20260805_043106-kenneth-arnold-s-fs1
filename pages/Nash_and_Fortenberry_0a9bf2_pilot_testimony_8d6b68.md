@@ -220,6 +220,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-04 10:51:16'
+last_modified_at: '2026-08-04 10:51:16'
 parent_title: Nash Fortenberry
 parent_permalink: /nash-and-fortenberry-sighting-1952/
 parent_nav_short_title: Nash Fortenberry

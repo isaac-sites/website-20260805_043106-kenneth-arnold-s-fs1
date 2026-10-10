@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /charles-b-moore-sigh-63eb1f-index/
 description: Focused pages that expand on Charles B Moore sighting 1949.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Charles_B_Moore_sigh_63eb1f
 parent_title: Charles B Moore sighting 1949

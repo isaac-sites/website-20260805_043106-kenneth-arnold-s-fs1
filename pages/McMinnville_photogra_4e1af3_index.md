@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /mcminnville-photogra-4e1af3-index/
 description: Focused pages that expand on Mc Minnville photographs 1950.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: McMinnville_photogra_4e1af3
 parent_title: Mc Minnville photographs 1950

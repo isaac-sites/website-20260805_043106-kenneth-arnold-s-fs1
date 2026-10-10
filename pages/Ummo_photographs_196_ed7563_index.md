@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /ummo-photographs-196-ed7563-index/
 description: Focused pages that expand on Ummo photographs 1967.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Ummo_photographs_196_ed7563
 parent_title: Ummo photographs 1967

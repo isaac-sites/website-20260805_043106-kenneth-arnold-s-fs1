@@ -220,6 +220,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-04 13:54:51'
+last_modified_at: '2026-08-04 13:54:51'
 parent_title: Delphos Ring
 parent_permalink: /delphos-ring-incident-1971/
 parent_nav_short_title: Delphos Ring

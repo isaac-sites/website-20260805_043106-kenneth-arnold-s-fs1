@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /kenneth-arnold-s-fir-b696ba-index/
 description: Focused pages that expand on Kenneth Arnold s first sighting 1947.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Kenneth_Arnold_s_fir_b696ba
 parent_title: Kenneth Arnold s first sighting 1947

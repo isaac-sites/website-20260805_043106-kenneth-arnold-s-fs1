@@ -220,6 +220,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-04 12:47:27'
+last_modified_at: '2026-08-04 12:47:27'
 parent_title: Kinross Files
 parent_permalink: /kinross-incident-1953/
 parent_nav_short_title: Kinross Files

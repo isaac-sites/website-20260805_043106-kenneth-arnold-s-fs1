@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /pascagoula-abduction-80a64a-index/
 description: Focused pages that expand on Pascagoula abduction 1973.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Pascagoula_abduction_80a64a
 parent_title: Pascagoula abduction 1973

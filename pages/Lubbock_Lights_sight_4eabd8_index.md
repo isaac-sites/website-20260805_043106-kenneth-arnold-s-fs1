@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /lubbock-lights-sight-4eabd8-index/
 description: Focused pages that expand on Lubbock Lights sightings 1951.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Lubbock_Lights_sight_4eabd8
 parent_title: Lubbock Lights sightings 1951

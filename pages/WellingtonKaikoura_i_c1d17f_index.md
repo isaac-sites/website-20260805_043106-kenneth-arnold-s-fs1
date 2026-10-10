@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /wellingtonkaikoura-i-c1d17f-index/
 description: Focused pages that expand on Wellington Kaikoura incident 1978.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: WellingtonKaikoura_i_c1d17f
 parent_title: Wellington Kaikoura incident 1978

@@ -220,6 +220,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-04 19:55:02'
+last_modified_at: '2026-08-04 19:55:02'
 parent_title: Bonilla Observation
 parent_permalink: /jose-a-y-bonilla-photograph-1883/
 parent_nav_short_title: Bonilla Observation

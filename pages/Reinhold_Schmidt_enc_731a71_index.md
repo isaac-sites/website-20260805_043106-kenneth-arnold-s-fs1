@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /reinhold-schmidt-enc-731a71-index/
 description: Focused pages that expand on Reinhold Schmidt encounter 1957.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Reinhold_Schmidt_enc_731a71
 parent_title: Reinhold Schmidt encounter 1957

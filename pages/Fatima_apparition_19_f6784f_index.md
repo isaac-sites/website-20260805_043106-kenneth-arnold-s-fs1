@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /fatima-apparition-19-f6784f-index/
 description: Focused pages that expand on Fatima apparition 1917.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Fatima_apparition_19_f6784f
 parent_title: Fatima apparition 1917

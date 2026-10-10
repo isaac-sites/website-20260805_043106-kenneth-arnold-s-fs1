@@ -220,6 +220,7 @@ ui_strings:
   search_kind_section_title: Section title
   search_kind_relevant_snippet: Relevant snippet
 date: '2026-08-04 21:05:01'
+last_modified_at: '2026-08-04 21:05:01'
 parent_title: Coniston UFO
 parent_permalink: /stephen-darbishire-photograph-1954/
 parent_nav_short_title: Coniston UFO

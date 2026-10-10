@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /delphos-ring-inciden-2952cd-index/
 description: Focused pages that expand on Delphos Ring incident 1971.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Delphos_Ring_inciden_2952cd
 parent_title: Delphos Ring incident 1971
