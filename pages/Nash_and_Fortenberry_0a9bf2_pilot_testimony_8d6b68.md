@@ -21,7 +21,7 @@ permalink: /pilot-testimony-381c39/
 sidebar_expanded_urls:
 - /nash-and-fortenberry-sighting-1952/
 nav_short_title: Pilot Testimony
-title: Why the Pilots' Account Still Matters
+title: "Why the Pilots' Account Still Matters - Nash and Fortenberry"
 title_full: Why the Pilots' Account Still Matters | Nash Fortenberry
 display_title_short: Pilot Testimony
 display_title: Pilot Testimony
