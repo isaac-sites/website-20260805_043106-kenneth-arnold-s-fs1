@@ -21,7 +21,7 @@ permalink: /pilot-testimony/
 sidebar_expanded_urls:
 - /chiles-and-whitted-sighting-1948/
 nav_short_title: Pilot Testimony
-title: Why the Pilots' Account Still Matters
+title: "Why the Pilots' Account Still Matters - Chiles and Whitted s"
 title_full: Why the Pilots' Account Still Matters | Chiles Whitted
 display_title_short: Pilot Testimony
 display_title: Pilot Testimony
